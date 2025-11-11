@@ -1,0 +1,8002 @@
+[
+  {
+    "id": 0,
+    "question": "Where did Sholom Schwartzbard die",
+    "pred": "Paris, France",
+    "answers": [
+      "Cape Town"
+    ]
+  },
+  {
+    "id": 1,
+    "question": "What type of music is played by Dead Meadow?",
+    "pred": "Psychedelic rock",
+    "answers": [
+      "acid rock"
+    ]
+  },
+  {
+    "id": 2,
+    "question": "is Derrell Mitchell male or female",
+    "pred": "Male",
+    "answers": [
+      "male"
+    ]
+  },
+  {
+    "id": 3,
+    "question": "where was Bruce Tarr born in",
+    "pred": "Gloucester, Massachusetts",
+    "answers": [
+      "Gloucester"
+    ]
+  },
+  {
+    "id": 4,
+    "question": "What film genre is the movie Panic?",
+    "pred": "Thriller",
+    "answers": [
+      "crime fiction"
+    ]
+  },
+  {
+    "id": 5,
+    "question": "who was a famous person born in Gwalior",
+    "pred": "Lata Mangeshkar",
+    "answers": [
+      "Naushad Ali"
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Which language is the film to whom does the world belong? in",
+    "pred": "German",
+    "answers": [
+      "German"
+    ]
+  },
+  {
+    "id": 7,
+    "question": "What do the characters in La Linea speak",
+    "pred": "Italian",
+    "answers": [
+      "English"
+    ]
+  },
+  {
+    "id": 8,
+    "question": "what sex is David Brazier",
+    "pred": "Male",
+    "answers": [
+      "male"
+    ]
+  },
+  {
+    "id": 9,
+    "question": "what type of film is Kwaidan (film)?",
+    "pred": "Horror",
+    "answers": [
+      "fantasy"
+    ]
+  },
+  {
+    "id": 10,
+    "question": "What Canadian actor was born in New Haven",
+    "pred": "Michael J. Fox",
+    "answers": [
+      "Paul Perri"
+    ]
+  },
+  {
+    "id": 11,
+    "question": "what kind of game is Fast Food",
+    "pred": "Fast Food is a business simulation game.",
+    "answers": [
+      "action game"
+    ]
+  },
+  {
+    "id": 12,
+    "question": "Jenin, Jenin is a film that was directed by whom?",
+    "pred": "Muhammad Bakri.",
+    "answers": [
+      "Mohammad Bakri"
+    ]
+  },
+  {
+    "id": 13,
+    "question": "what kind of music does Churn make",
+    "pred": "Electronic music",
+    "answers": [
+      "rock music"
+    ]
+  },
+  {
+    "id": 14,
+    "question": "who is Sandeep Dikshit's mother",
+    "pred": "Sheila Dikshit",
+    "answers": [
+      "Sheila Dikshit"
+    ]
+  },
+  {
+    "id": 15,
+    "question": "who influenced Jim Keeble?",
+    "pred": "Stephen Fry",
+    "answers": [
+      "John Irving"
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Who is an artist of heavy metal?",
+    "pred": "Ozzy Osbourne.",
+    "answers": [
+      "Helloween"
+    ]
+  },
+  {
+    "id": 17,
+    "question": "where in the us is Henry Johnson buried in?",
+    "pred": "Arlington National Cemetery",
+    "answers": [
+      "Arlington National Cemetery"
+    ]
+  },
+  {
+    "id": 18,
+    "question": "what is Joe Gauthreaux's gender",
+    "pred": "Male",
+    "answers": [
+      "male"
+    ]
+  },
+  {
+    "id": 19,
+    "question": "What is a classic netflix film",
+    "pred": "The Irishman",
+    "answers": [
+      "Top Hat"
+    ]
+  },
+  {
+    "id": 20,
+    "question": "Name an album from the thrash metal genre.",
+    "pred": "Master of Puppets",
+    "answers": [
+      "Gabriel"
+    ]
+  },
+  {
+    "id": 21,
+    "question": "state  Giovanna of Italy religion",
+    "pred": "Roman Catholicism",
+    "answers": [
+      "Catholicism"
+    ]
+  },
+  {
+    "id": 22,
+    "question": "what is the name of a 1990 romantic comedy",
+    "pred": "Pretty Woman",
+    "answers": [
+      "Alice"
+    ]
+  },
+  {
+    "id": 23,
+    "question": "what city is municipality located in Brazil",
+    "pred": "Brasília",
+    "answers": [
+      "Nossa Senhora de Lourdes"
+    ]
+  },
+  {
+    "id": 24,
+    "question": "which genre does the crown witness fall under",
+    "pred": "Legal drama",
+    "answers": [
+      "crime fiction"
+    ]
+  },
+  {
+    "id": 25,
+    "question": "what characters have Ramona Fradon created?",
+    "pred": "Aquaman, Metamorpho, Aqualad, Black Manta.",
+    "answers": [
+      "Aquagirl"
+    ]
+  },
+  {
+    "id": 26,
+    "question": "What country filmed The Black Orchid",
+    "pred": "Italy",
+    "answers": [
+      "United States of America"
+    ]
+  },
+  {
+    "id": 27,
+    "question": "who is the parent of Salman Khan",
+    "pred": "Salim Khan",
+    "answers": [
+      "Salim Khan"
+    ]
+  },
+  {
+    "id": 28,
+    "question": "where did Charles Cleveland pass away",
+    "pred": "Cleveland, Ohio",
+    "answers": [
+      "Tuscaloosa"
+    ]
+  },
+  {
+    "id": 29,
+    "question": "who is a person buried in Elmwood Cemetery",
+    "pred": "There are many individuals buried in Elmwood Cemetery, as it is a common cemetery name in various cities. For a specific person, please specify the location (e.g., Detroit, Memphis, Norfolk).",
+    "answers": [
+      "Preston Smith"
+    ]
+  },
+  {
+    "id": 30,
+    "question": "who directed the film Tiefland",
+    "pred": "Leni Riefenstahl",
+    "answers": [
+      "Leni Riefenstahl"
+    ]
+  },
+  {
+    "id": 31,
+    "question": "is G.O.R.A. fantasy or science fiction",
+    "pred": "Science fiction",
+    "answers": [
+      "science fiction"
+    ]
+  },
+  {
+    "id": 32,
+    "question": "What is a book written by Colson Whitehead?",
+    "pred": "The Underground Railroad",
+    "answers": [
+      "John Henry Days"
+    ]
+  },
+  {
+    "id": 33,
+    "question": "who was the writer of Acorn Antiques: The Musical!",
+    "pred": "Victoria Wood.",
+    "answers": [
+      "Victoria Wood"
+    ]
+  },
+  {
+    "id": 34,
+    "question": "what person played forward?",
+    "pred": "I cannot answer that without more context.",
+    "answers": [
+      "Ramón Morales"
+    ]
+  },
+  {
+    "id": 35,
+    "question": "What is a gameplay mode that can be found on Bomberman Touch 2: Volcano Party?",
+    "pred": "Battle",
+    "answers": [
+      "single-player video game"
+    ]
+  },
+  {
+    "id": 36,
+    "question": "Who is a politician of the English people?",
+    "pred": "Boris Johnson",
+    "answers": [
+      "Sarah Palin"
+    ]
+  },
+  {
+    "id": 37,
+    "question": "What instrument does Richard Sohl play?",
+    "pred": "Piano",
+    "answers": [
+      "keyboard instrument"
+    ]
+  },
+  {
+    "id": 38,
+    "question": "what's the title of a science fantasy book",
+    "pred": "Dune",
+    "answers": [
+      "Hyperion"
+    ]
+  },
+  {
+    "id": 39,
+    "question": "What religion does Jaja Wachuku practice",
+    "pred": "Christianity",
+    "answers": [
+      "Anglicanism"
+    ]
+  },
+  {
+    "id": 40,
+    "question": "who was influenced by Will Rogers?",
+    "pred": "Bob Hope, Johnny Carson, and modern comedians like Jon Stewart and Stephen Colbert.",
+    "answers": [
+      "Will Durst"
+    ]
+  },
+  {
+    "id": 41,
+    "question": "what sort of album is Hurricane",
+    "pred": "Music",
+    "answers": [
+      "Christian country music"
+    ]
+  },
+  {
+    "id": 42,
+    "question": "who was the founder of the Barmy Army",
+    "pred": "David Folb",
+    "answers": [
+      "Paul Burnham"
+    ]
+  },
+  {
+    "id": 43,
+    "question": "Which genre of album is harder.....faster?",
+    "pred": "Heavy metal.",
+    "answers": [
+      "classic rock"
+    ]
+  },
+  {
+    "id": 44,
+    "question": "is Peter Sheridan a male or female",
+    "pred": "Male",
+    "answers": [
+      "male"
+    ]
+  },
+  {
+    "id": 45,
+    "question": "What is the genre for Waters Edge?",
+    "pred": "Indie folk",
+    "answers": [
+      "glam rock"
+    ]
+  },
+  {
+    "id": 46,
+    "question": "what language is Road House in?",
+    "pred": "English",
+    "answers": [
+      "Portuguese"
+    ]
+  },
+  {
+    "id": 47,
+    "question": "What city did Lucas Demare die in",
+    "pred": "Buenos Aires",
+    "answers": [
+      "Buenos Aires"
+    ]
+  },
+  {
+    "id": 48,
+    "question": "What time zone is Kingston in?",
+    "pred": "UTC-5 (EST)",
+    "answers": [
+      "Eastern Time Zone"
+    ]
+  },
+  {
+    "id": 49,
+    "question": "what type of music does Soul Syndicate make",
+    "pred": "Reggae",
+    "answers": [
+      "reggae"
+    ]
+  },
+  {
+    "id": 50,
+    "question": "What is the sex of Frederick William Wallace?",
+    "pred": "Unknown",
+    "answers": [
+      "male"
+    ]
+  },
+  {
+    "id": 51,
+    "question": "what is the label of redhead kingpin & the fbi?",
+    "pred": "Redhead Kingpin and the FBI",
+    "answers": [
+      "Atlantic Records"
+    ]
+  },
+  {
+    "id": 52,
+    "question": "what an example of a alternative country album",
+    "pred": "\"O Brother, Where Art Thou?\" soundtrack",
+    "answers": [
+      "Impala"
+    ]
+  },
+  {
+    "id": 53,
+    "question": "What genre of album is Magico: Carta de Amor?",
+    "pred": "Latin pop",
+    "answers": [
+      "jazz"
+    ]
+  },
+  {
+    "id": 54,
+    "question": "in which language was The Last Temptation of Christ originally written",
+    "pred": "Greek",
+    "answers": [
+      "Greek"
+    ]
+  },
+  {
+    "id": 55,
+    "question": "is Evilenko a animation or crime fiction film",
+    "pred": "Crime fiction",
+    "answers": [
+      "crime fiction"
+    ]
+  },
+  {
+    "id": 56,
+    "question": "which chinese footballer was born in Zibo",
+    "pred": "Han Peng",
+    "answers": [
+      "Liu Jian"
+    ]
+  },
+  {
+    "id": 57,
+    "question": "whats the name of Heber J. Grant's father?",
+    "pred": "Jedediah Morgan Grant",
+    "answers": [
+      "Jedediah M. Grant"
+    ]
+  },
+  {
+    "id": 58,
+    "question": "what is a Russian actor known for his role in d'Artagnan born in Moscow",
+    "pred": "Mikhail Boyarsky",
+    "answers": [
+      "Valentin Smirnitsky"
+    ]
+  },
+  {
+    "id": 59,
+    "question": "what is  Dennis Drainvilles religion",
+    "pred": "Roman Catholic",
+    "answers": [
+      "Anglicanism"
+    ]
+  },
+  {
+    "id": 60,
+    "question": "where was Joseph Ryelandt born",
+    "pred": "Bruges",
+    "answers": [
+      "Bruges"
+    ]
+  },
+  {
+    "id": 61,
+    "question": "what kind of tv program is brad meltzers decoded?",
+    "pred": "Documentary series",
+    "answers": [
+      "documentary film"
+    ]
+  },
+  {
+    "id": 62,
+    "question": "Which genre of music is the album Zig-Zag Walk?",
+    "pred": "Funk",
+    "answers": [
+      "rock music"
+    ]
+  },
+  {
+    "id": 63,
+    "question": "whats Dan Kwong gender",
+    "pred": "Male",
+    "answers": [
+      "male"
+    ]
+  },
+  {
+    "id": 64,
+    "question": "What is Jett Pangan's nationality?",
+    "pred": "Filipino",
+    "answers": [
+      "Philippines"
+    ]
+  },
+  {
+    "id": 65,
+    "question": "What playwright influenced Fernando Pessoa",
+    "pred": "William Shakespeare",
+    "answers": [
+      "William Shakespeare"
+    ]
+  },
+  {
+    "id": 66,
+    "question": "What kind of film is snowfall in taipei?",
+    "pred": "Romantic drama",
+    "answers": [
+      "drama film"
+    ]
+  },
+  {
+    "id": 67,
+    "question": "What country was the film the horror vault: part 1 produced in",
+    "pred": "The United States",
+    "answers": [
+      "Denmark"
+    ]
+  },
+  {
+    "id": 68,
+    "question": "What caused the death of Ronald Davis?",
+    "pred": "Ronald Davis died from a drug overdose.",
+    "answers": [
+      "pancreatic cancer"
+    ]
+  },
+  {
+    "id": 69,
+    "question": "Where did Normie Roy die in new hampshire",
+    "pred": "Manchester",
+    "answers": [
+      "Nashua"
+    ]
+  },
+  {
+    "id": 70,
+    "question": "Which country did The Wizard of Oz (1939 film) originate in?",
+    "pred": "United States",
+    "answers": [
+      "United States of America"
+    ]
+  },
+  {
+    "id": 71,
+    "question": "what position is Iván Nova charge of",
+    "pred": "Pitcher",
+    "answers": [
+      "pitcher"
+    ]
+  },
+  {
+    "id": 72,
+    "question": "what type of film is Love Khichdi",
+    "pred": "Romantic comedy",
+    "answers": [
+      "romance film"
+    ]
+  },
+  {
+    "id": 73,
+    "question": "Which village is in Arenac County?",
+    "pred": "Sterling",
+    "answers": [
+      "Sterling"
+    ]
+  },
+  {
+    "id": 74,
+    "question": "what gender is Elizabeth Clarke Wolstenholme Elmy",
+    "pred": "Female",
+    "answers": [
+      "female"
+    ]
+  },
+  {
+    "id": 75,
+    "question": "Where was Joe McLeod born?",
+    "pred": "Toronto, Ontario, Canada",
+    "answers": [
+      "Scotland"
+    ]
+  },
+  {
+    "id": 76,
+    "question": "What position does Jerry Turner play?",
+    "pred": "Shortstop",
+    "answers": [
+      "outfielder"
+    ]
+  },
+  {
+    "id": 77,
+    "question": "what kind of music does Dúné make?",
+    "pred": "Alternative rock, indie rock, synth-pop",
+    "answers": [
+      "electronic music"
+    ]
+  },
+  {
+    "id": 78,
+    "question": "What is San Luis Obispo County's location within the time zone?",
+    "pred": "Pacific Time Zone (UTC-8)",
+    "answers": [
+      "Pacific Time Zone"
+    ]
+  },
+  {
+    "id": 79,
+    "question": "What is the name of an action film",
+    "pred": "Die Hard.",
+    "answers": [
+      "California Straight Ahead!"
+    ]
+  },
+  {
+    "id": 80,
+    "question": "What country created the film Panic",
+    "pred": "France",
+    "answers": [
+      "United Kingdom"
+    ]
+  },
+  {
+    "id": 81,
+    "question": "what is the gender of Eligius Fromentin",
+    "pred": "Male",
+    "answers": [
+      "male"
+    ]
+  },
+  {
+    "id": 82,
+    "question": "What production company worked on the film love & other drugs",
+    "pred": "Fox 2000 Pictures",
+    "answers": [
+      "Regency Enterprises"
+    ]
+  },
+  {
+    "id": 83,
+    "question": "what instrument does Damien Rice play",
+    "pred": "Guitar",
+    "answers": [
+      "violin"
+    ]
+  },
+  {
+    "id": 84,
+    "question": "What style of music is Encyclopedia of Sound?",
+    "pred": "Music compilation series",
+    "answers": [
+      "rock and roll"
+    ]
+  },
+  {
+    "id": 85,
+    "question": "what instrument does John Farnham play?",
+    "pred": "Vocals.",
+    "answers": [
+      "piano"
+    ]
+  },
+  {
+    "id": 86,
+    "question": "which war did Darius N. Couch play a role in",
+    "pred": "American Civil War",
+    "answers": [
+      "Mexican–American War"
+    ]
+  },
+  {
+    "id": 87,
+    "question": "What is the gender of Monika Gabriel?",
+    "pred": "Unknown.",
+    "answers": [
+      "female"
+    ]
+  },
+  {
+    "id": 88,
+    "question": "What is the grouch's profession?",
+    "pred": "Garbage collector",
+    "answers": [
+      "master of ceremonies"
+    ]
+  },
+  {
+    "id": 89,
+    "question": "What is the originating country for the film Thiruppu Munai?",
+    "pred": "India",
+    "answers": [
+      "India"
+    ]
+  },
+  {
+    "id": 90,
+    "question": "which country was The Wife Swappers released in",
+    "pred": "United Kingdom",
+    "answers": [
+      "United Kingdom"
+    ]
+  },
+  {
+    "id": 91,
+    "question": "Which position does the basketball player Jack Cooley play",
+    "pred": "Center",
+    "answers": [
+      "power forward"
+    ]
+  },
+  {
+    "id": 92,
+    "question": "Name a screenwriter.",
+    "pred": "Aaron Sorkin",
+    "answers": [
+      "Efren Reyes, Sr."
+    ]
+  },
+  {
+    "id": 93,
+    "question": "Who was born in San Diego",
+    "pred": "Tony Hawk",
+    "answers": [
+      "Keith DeLong"
+    ]
+  },
+  {
+    "id": 94,
+    "question": "What kind of artist is Stam1na",
+    "pred": "Metal band",
+    "answers": [
+      "alternative metal"
+    ]
+  },
+  {
+    "id": 95,
+    "question": "What type of music was made by Reno Kiilerich",
+    "pred": "Jazz",
+    "answers": [
+      "death metal"
+    ]
+  },
+  {
+    "id": 96,
+    "question": "where was Mohamed Kanu born",
+    "pred": "Sierra Leone",
+    "answers": [
+      "Freetown"
+    ]
+  },
+  {
+    "id": 97,
+    "question": "where was Cole Vosbury born at?",
+    "pred": "Shreveport, Louisiana",
+    "answers": [
+      "Shreveport"
+    ]
+  },
+  {
+    "id": 98,
+    "question": "What language is used in the television program Super Friends",
+    "pred": "English",
+    "answers": [
+      "English"
+    ]
+  },
+  {
+    "id": 99,
+    "question": "what gender is vagif mustafazade",
+    "pred": "Male",
+    "answers": [
+      "male"
+    ]
+  },
+  {
+    "id": 100,
+    "question": "Who composed Hero of the Day",
+    "pred": "Metallica",
+    "answers": [
+      "Kirk Hammett"
+    ]
+  },
+  {
+    "id": 101,
+    "question": "where is the birthplace of Rob Margolies",
+    "pred": "New York City, New York, United States",
+    "answers": [
+      "Rumson"
+    ]
+  },
+  {
+    "id": 102,
+    "question": "what film did Pete Dexter assist in the writing of",
+    "pred": "\"Mulholland Falls\"",
+    "answers": [
+      "Paris Trout"
+    ]
+  },
+  {
+    "id": 103,
+    "question": "A film in the punk rock genre is?",
+    "pred": "Sid and Nancy",
+    "answers": [
+      "Edgeplay: A Film About the Runaways"
+    ]
+  },
+  {
+    "id": 104,
+    "question": "what is the genre of the netflix title Love Story 2050?",
+    "pred": "Science Fiction Romance",
+    "answers": [
+      "Bollywood"
+    ]
+  },
+  {
+    "id": 105,
+    "question": "what musician does alternative metal",
+    "pred": "Tool, Deftones, System of a Down.",
+    "answers": [
+      "Strung Out"
+    ]
+  },
+  {
+    "id": 106,
+    "question": "What is a musical film from Czech?",
+    "pred": "The Bartered Bride",
+    "answers": [
+      "Kolya"
+    ]
+  },
+  {
+    "id": 107,
+    "question": "what is 6520 Sugawa",
+    "pred": "Asteroid",
+    "answers": [
+      "asteroid"
+    ]
+  },
+  {
+    "id": 108,
+    "question": "What is an organization that J. A. Folger founded?",
+    "pred": "Folgers Coffee Company",
+    "answers": [
+      "Folgers"
+    ]
+  },
+  {
+    "id": 109,
+    "question": "Who is someone that was born in Minsk",
+    "pred": "Alexander Lukashenko",
+    "answers": [
+      "Artem Milevskiy"
+    ]
+  },
+  {
+    "id": 110,
+    "question": "What movie did Roger Corman produce",
+    "pred": "The Little Shop of Horrors",
+    "answers": [
+      "Scene of the Crime"
+    ]
+  },
+  {
+    "id": 111,
+    "question": "Who was born in Nancy?",
+    "pred": "Émile Gallé.",
+    "answers": [
+      "Henri Cartan"
+    ]
+  },
+  {
+    "id": 112,
+    "question": "Who is Camilo José Cela Conde's father",
+    "pred": "Camilo José Cela",
+    "answers": [
+      "Camilo José Cela"
+    ]
+  },
+  {
+    "id": 113,
+    "question": "which country released Eldorado",
+    "pred": "United Kingdom",
+    "answers": [
+      "France"
+    ]
+  },
+  {
+    "id": 114,
+    "question": "what is the gender of Hassan Bashir",
+    "pred": "Male",
+    "answers": [
+      "male"
+    ]
+  },
+  {
+    "id": 115,
+    "question": "what films have Dianna Agron written?",
+    "pred": "Dianna Agron has not written any films.",
+    "answers": [
+      "A Fuchsia Elephant"
+    ]
+  },
+  {
+    "id": 116,
+    "question": "what country is James Rennell a citizen of",
+    "pred": "Great Britain",
+    "answers": [
+      "England"
+    ]
+  },
+  {
+    "id": 117,
+    "question": "Name a theatre director",
+    "pred": "Peter Brook",
+    "answers": [
+      "Camille du Locle"
+    ]
+  },
+  {
+    "id": 118,
+    "question": "what type of film is kara no kyōkai: oblivion recorder?",
+    "pred": "Anime film",
+    "answers": [
+      "horror film"
+    ]
+  },
+  {
+    "id": 119,
+    "question": "what is George Rumbold's nationality",
+    "pred": "British",
+    "answers": [
+      "England"
+    ]
+  },
+  {
+    "id": 120,
+    "question": "What was named for Yakov Sverdlov?",
+    "pred": "Sverdlov-class cruisers, cities (Sverdlovsk), institutions, and awards.",
+    "answers": [
+      "Yekaterinburg"
+    ]
+  },
+  {
+    "id": 121,
+    "question": "what is Susana Giménez's profession?",
+    "pred": "Actress and television host.",
+    "answers": [
+      "actor"
+    ]
+  },
+  {
+    "id": 122,
+    "question": "Olza is a tributary of what river?",
+    "pred": "Oder",
+    "answers": [
+      "Oder"
+    ]
+  },
+  {
+    "id": 123,
+    "question": "Which film did Russell Mulcahy direct",
+    "pred": "Highlander",
+    "answers": [
+      "Prayers for bobby"
+    ]
+  },
+  {
+    "id": 124,
+    "question": "what is André Gumprecht's nationality",
+    "pred": "German",
+    "answers": [
+      "East Germany"
+    ]
+  },
+  {
+    "id": 125,
+    "question": "what is the genre of the artist Five Iron Frenzy",
+    "pred": "Ska punk",
+    "answers": [
+      "Christian punk"
+    ]
+  },
+  {
+    "id": 126,
+    "question": "What is the genre of the film Hoot (film)",
+    "pred": "Family comedy",
+    "answers": [
+      "children's film"
+    ]
+  },
+  {
+    "id": 127,
+    "question": "Where was Colin Bettany born?",
+    "pred": "London, England",
+    "answers": [
+      "Leicester"
+    ]
+  },
+  {
+    "id": 128,
+    "question": "what types of movie is window",
+    "pred": "The word \"window\" is not a standard movie genre.",
+    "answers": [
+      "drama film"
+    ]
+  },
+  {
+    "id": 129,
+    "question": "who was born in Helsinki",
+    "pred": "Numerous individuals, including Jean Sibelius and Linus Torvalds.",
+    "answers": [
+      "Abba Gindin"
+    ]
+  },
+  {
+    "id": 130,
+    "question": "Who directed the motion picture concert for new york city",
+    "pred": "Joel Gallen",
+    "answers": [
+      "Kevin Smith"
+    ]
+  },
+  {
+    "id": 131,
+    "question": "What is the nationality of Baltzar von Platen?",
+    "pred": "Swedish",
+    "answers": [
+      "Sweden"
+    ]
+  },
+  {
+    "id": 132,
+    "question": "who was the lyricist behind Chelsea Morning",
+    "pred": "Joni Mitchell",
+    "answers": [
+      "Joni Mitchell"
+    ]
+  },
+  {
+    "id": 133,
+    "question": "what events happened at Mecklenburg County?",
+    "pred": "The Mecklenburg Declaration of Independence (May 20, 1775) and the Mecklenburg Resolves (May 31, 1775) are key historical events.",
+    "answers": [
+      "Battle of Cowan's Ford"
+    ]
+  },
+  {
+    "id": 134,
+    "question": "Which genre of film is Rock Star (film)?",
+    "pred": "Musical drama",
+    "answers": [
+      "comedy-drama"
+    ]
+  },
+  {
+    "id": 135,
+    "question": "which 1969 albums were released as a ballad?",
+    "pred": "None.",
+    "answers": [
+      "José José"
+    ]
+  },
+  {
+    "id": 136,
+    "question": "Where did Jason Robards die?",
+    "pred": "Bridgeport, Connecticut",
+    "answers": [
+      "Sherman Oaks"
+    ]
+  },
+  {
+    "id": 137,
+    "question": "what genre is the computer videogame I of the Dragon",
+    "pred": "Action role-playing",
+    "answers": [
+      "strategy video game"
+    ]
+  },
+  {
+    "id": 138,
+    "question": "Where was Hedy Fry born?",
+    "pred": "San Fernando, Trinidad and Tobago",
+    "answers": [
+      "San Fernando"
+    ]
+  },
+  {
+    "id": 139,
+    "question": "What is an example of a drama film?",
+    "pred": "\"The Shawshank Redemption\"",
+    "answers": [
+      "Dahmer"
+    ]
+  },
+  {
+    "id": 140,
+    "question": "Where in the United States did Herbert Adams die",
+    "pred": "Washington, D.C.",
+    "answers": [
+      "New York City"
+    ]
+  },
+  {
+    "id": 141,
+    "question": "What type of celestial object is 4733 ORO",
+    "pred": "asteroid",
+    "answers": [
+      "asteroid"
+    ]
+  },
+  {
+    "id": 142,
+    "question": "which record label did captain beefheart belong to",
+    "pred": "A&M Records, Buddah Records, Virgin Records, Reprise Records, Blue Thumb Records, Warner Bros. Records, Atlantic Records, Epic Records, DiscReet Records, Virgin Records",
+    "answers": [
+      "Epic Records"
+    ]
+  },
+  {
+    "id": 143,
+    "question": "How did Dennis Burkley die?",
+    "pred": "Natural causes.",
+    "answers": [
+      "myocardial infarction"
+    ]
+  },
+  {
+    "id": 144,
+    "question": "what is the main profession of Jim Huber",
+    "pred": "Sportswriter and commentator",
+    "answers": [
+      "sports commentator"
+    ]
+  },
+  {
+    "id": 145,
+    "question": "What is Andrew Ellis's gender?",
+    "pred": "Male",
+    "answers": [
+      "male"
+    ]
+  },
+  {
+    "id": 146,
+    "question": "which time zone does Sylvia belong to",
+    "pred": "I don't have that information.",
+    "answers": [
+      "Central Time Zone"
+    ]
+  },
+  {
+    "id": 147,
+    "question": "which european country is Beverley Cross from",
+    "pred": "England",
+    "answers": [
+      "United Kingdom"
+    ]
+  },
+  {
+    "id": 148,
+    "question": "what is the mouth of Hrazdan River",
+    "pred": "Lake Sevan",
+    "answers": [
+      "Aras River"
+    ]
+  },
+  {
+    "id": 149,
+    "question": "Cab Number 13 is a film in what language?",
+    "pred": "Hindi",
+    "answers": [
+      "Italian"
+    ]
+  },
+  {
+    "id": 150,
+    "question": "Who was Imagawa Ujizane's parent?",
+    "pred": "Imagawa Yoshimoto",
+    "answers": [
+      "Imagawa Yoshimoto"
+    ]
+  },
+  {
+    "id": 151,
+    "question": "what genre of music does Soko perform?",
+    "pred": "Indie pop",
+    "answers": [
+      "rock music"
+    ]
+  },
+  {
+    "id": 152,
+    "question": "What is the ideology of the Green Party of Aotearoa New Zealand?",
+    "pred": "Environmental sustainability, social justice, and grassroots democracy.",
+    "answers": [
+      "environmentalism"
+    ]
+  },
+  {
+    "id": 153,
+    "question": "Where did madame de la fayette die?",
+    "pred": "Paris",
+    "answers": [
+      "Paris"
+    ]
+  },
+  {
+    "id": 154,
+    "question": "what is a fantasy tv title",
+    "pred": "A television series set in a fictional universe involving magic, supernatural elements, or mythical creatures.",
+    "answers": [
+      "Apparitions"
+    ]
+  },
+  {
+    "id": 155,
+    "question": "what types of music is Richard Marriott",
+    "pred": "Jazz, classical, and experimental.",
+    "answers": [
+      "film score"
+    ]
+  },
+  {
+    "id": 156,
+    "question": "What is the name of an artist that is signed to Noise Records",
+    "pred": "Celtic Frost",
+    "answers": [
+      "Stratovarius"
+    ]
+  },
+  {
+    "id": 157,
+    "question": "What type of music is recorded on Anorexia",
+    "pred": "The query appears to contain a misunderstanding or typo; there is no known music genre or album specifically called \"Anorexia.\"",
+    "answers": [
+      "electronic music"
+    ]
+  },
+  {
+    "id": 158,
+    "question": "what country is mukoma ngugi originally from?",
+    "pred": "Kenya",
+    "answers": [
+      "Kenya"
+    ]
+  },
+  {
+    "id": 159,
+    "question": "Which country filmed my voice",
+    "pred": "I cannot determine that information.",
+    "answers": [
+      "Portugal"
+    ]
+  },
+  {
+    "id": 160,
+    "question": "Who created the fictional character Carlie Cooper",
+    "pred": "Bob Gale",
+    "answers": [
+      "Joe Quesada"
+    ]
+  },
+  {
+    "id": 161,
+    "question": "what kind of music does Duels create",
+    "pred": "Indie rock",
+    "answers": [
+      "independent music"
+    ]
+  },
+  {
+    "id": 162,
+    "question": "Who was 5698 Nolde named after?",
+    "pred": "Emil Nolde",
+    "answers": [
+      "Emil Nolde"
+    ]
+  },
+  {
+    "id": 163,
+    "question": "how did Seisaku Nakamura die",
+    "pred": "He died of natural causes.",
+    "answers": [
+      "hanging"
+    ]
+  },
+  {
+    "id": 164,
+    "question": "Which time zone is Sumner County located in",
+    "pred": "Central Time Zone",
+    "answers": [
+      "Central Time Zone"
+    ]
+  },
+  {
+    "id": 165,
+    "question": "what is the name of a first baseman in baseball",
+    "pred": "There are many first basemen in baseball.",
+    "answers": [
+      "Mule Shirley"
+    ]
+  },
+  {
+    "id": 166,
+    "question": "what film is directed by Michel Ocelot?",
+    "pred": "\"Kirikou and the Sorceress\"",
+    "answers": [
+      "Tales of the Night"
+    ]
+  },
+  {
+    "id": 167,
+    "question": "which county is atlanta in",
+    "pred": "Fulton County.",
+    "answers": [
+      "Cass County"
+    ]
+  },
+  {
+    "id": 168,
+    "question": "what is the name of an episode from the tv series buffy the vampire slayer season 7",
+    "pred": "\"Lessons\"",
+    "answers": [
+      "Storyteller"
+    ]
+  },
+  {
+    "id": 169,
+    "question": "what is Sharon Lewis's profession?",
+    "pred": "I cannot answer that question. I am an AI assistant designed to provide helpful and harmless responses.",
+    "answers": [
+      "actor"
+    ]
+  },
+  {
+    "id": 170,
+    "question": "who made Moment of Glory",
+    "pred": "Scorpions and the Berlin Philharmonic Orchestra",
+    "answers": [
+      "Scorpions"
+    ]
+  },
+  {
+    "id": 171,
+    "question": "what is  Joe O'Donnell birth place",
+    "pred": "Knoxville, Tennessee",
+    "answers": [
+      "Limerick"
+    ]
+  },
+  {
+    "id": 172,
+    "question": "what kind of music is White Shoes & The Couples Company",
+    "pred": "Indie pop, jazz-pop, lounge",
+    "answers": [
+      "jazz"
+    ]
+  },
+  {
+    "id": 173,
+    "question": "What genre of music is Fear of Music?",
+    "pred": "Post-punk",
+    "answers": [
+      "art rock"
+    ]
+  },
+  {
+    "id": 174,
+    "question": "what is Mark Ridley-Thomas's ethnicity",
+    "pred": "African American",
+    "answers": [
+      "African Americans"
+    ]
+  },
+  {
+    "id": 175,
+    "question": "what genre of film is Tortilla Heaven",
+    "pred": "Comedy",
+    "answers": [
+      "comedy-drama"
+    ]
+  },
+  {
+    "id": 176,
+    "question": "Where was Eir Aoi born?",
+    "pred": "Osaka, Japan.",
+    "answers": [
+      "Sapporo"
+    ]
+  },
+  {
+    "id": 177,
+    "question": "Is Daria Werbowy male or female",
+    "pred": "Female",
+    "answers": [
+      "female"
+    ]
+  },
+  {
+    "id": 178,
+    "question": "who's a notable screenwriter from tel aviv",
+    "pred": "Eytan Fox.",
+    "answers": [
+      "Nadav Lapid"
+    ]
+  },
+  {
+    "id": 179,
+    "question": "Who is a mexican goalkeeper?",
+    "pred": "Guillermo Ochoa",
+    "answers": [
+      "Jonathan Orozco"
+    ]
+  },
+  {
+    "id": 180,
+    "question": "Which type of music is Savannah Churchill known for",
+    "pred": "Blues and jazz",
+    "answers": [
+      "jazz"
+    ]
+  },
+  {
+    "id": 181,
+    "question": "what type of music is Phantom Blues?",
+    "pred": "Blues",
+    "answers": [
+      "blues"
+    ]
+  },
+  {
+    "id": 182,
+    "question": "who is the father of Richie Steamboat",
+    "pred": "Ricky Steamboat",
+    "answers": [
+      "Ricky Steamboat"
+    ]
+  },
+  {
+    "id": 183,
+    "question": "where did C. Wesley Roberts die",
+    "pred": "Topeka, Kansas",
+    "answers": [
+      "Oskaloosa"
+    ]
+  },
+  {
+    "id": 184,
+    "question": "What is the name of a child of Guru Tegh Bahadur",
+    "pred": "Gobind Singh",
+    "answers": [
+      "Guru Gobind Singh"
+    ]
+  },
+  {
+    "id": 185,
+    "question": "what language is used in harbour drift",
+    "pred": "Cantonese",
+    "answers": [
+      "German"
+    ]
+  },
+  {
+    "id": 186,
+    "question": "where was Jean Rousseau laid to rest",
+    "pred": "Ermenonville, France",
+    "answers": [
+      "Paris"
+    ]
+  },
+  {
+    "id": 187,
+    "question": "what is 4151 Alanhale a member of?",
+    "pred": "The Hale-Bopp comet discovery team.",
+    "answers": [
+      "asteroid belt"
+    ]
+  },
+  {
+    "id": 188,
+    "question": "Which position in football is played by Shay Revivo",
+    "pred": "Defender",
+    "answers": [
+      "midfielder"
+    ]
+  },
+  {
+    "id": 189,
+    "question": "What is John B. Haskin's profession",
+    "pred": "Judge",
+    "answers": [
+      "politician"
+    ]
+  },
+  {
+    "id": 190,
+    "question": "What event took place at Opis?",
+    "pred": "Alexander the Great's mutiny and speech.",
+    "answers": [
+      "Battle of Opis"
+    ]
+  },
+  {
+    "id": 191,
+    "question": "The film In Praise of Older Women was based in which country?",
+    "pred": "Hungary",
+    "answers": [
+      "Canada"
+    ]
+  },
+  {
+    "id": 192,
+    "question": "what is the profession of Randy Brown",
+    "pred": "UFC fighter",
+    "answers": [
+      "baseball player"
+    ]
+  },
+  {
+    "id": 193,
+    "question": "In what language was The Eagle's Prophecy originally written",
+    "pred": "Latin",
+    "answers": [
+      "English"
+    ]
+  },
+  {
+    "id": 194,
+    "question": "What sort of music does Holly Williams play",
+    "pred": "Country",
+    "answers": [
+      "country music"
+    ]
+  },
+  {
+    "id": 195,
+    "question": "What's a book written by John Reynolds Gardiner",
+    "pred": "Stone Fox",
+    "answers": [
+      "Stone Fox"
+    ]
+  },
+  {
+    "id": 196,
+    "question": "In which country was The Last Shot You Hear filmed?",
+    "pred": "United Kingdom",
+    "answers": [
+      "United Kingdom"
+    ]
+  },
+  {
+    "id": 197,
+    "question": "what are albums by Monica",
+    "pred": "\"Miss Thang,\" \"The Boy Is Mine,\" \"After the Storm,\" \"Still Standing,\" \"New Life,\" \"Code Red,\" \"Trenches\"",
+    "answers": [
+      "New Life"
+    ]
+  },
+  {
+    "id": 198,
+    "question": "what film was Umberto Lenzi the director of",
+    "pred": "\"Eaten Alive!\"",
+    "answers": [
+      "Jungle Adventurer"
+    ]
+  },
+  {
+    "id": 199,
+    "question": "What country is Zsuzsa Mányai from?",
+    "pred": "Hungary.",
+    "answers": [
+      "Hungary"
+    ]
+  },
+  {
+    "id": 200,
+    "question": "Who is an artist that is signed to the record label Universal Music Group",
+    "pred": "Taylor Swift",
+    "answers": [
+      "Sads"
+    ]
+  },
+  {
+    "id": 201,
+    "question": "what country is Little Walter from",
+    "pred": "United States",
+    "answers": [
+      "United States of America"
+    ]
+  },
+  {
+    "id": 202,
+    "question": "who created the music for the film Raw! Raw! Rooster!",
+    "pred": "The film \"Raw! Raw! Rooster!\" does not exist, so there is no credited composer.",
+    "answers": [
+      "Carl Stalling"
+    ]
+  },
+  {
+    "id": 203,
+    "question": "What position does Lou Vedder play",
+    "pred": "Goalkeeper",
+    "answers": [
+      "pitcher"
+    ]
+  },
+  {
+    "id": 204,
+    "question": "is José Figueroa Alcorta from argentina or costa rica",
+    "pred": "Argentina",
+    "answers": [
+      "Argentina"
+    ]
+  },
+  {
+    "id": 205,
+    "question": "what genre on netflix is Psychopathia Sexualis",
+    "pred": "Drama",
+    "answers": [
+      "drama film"
+    ]
+  },
+  {
+    "id": 206,
+    "question": "what is Carmine Coppola's nationality?",
+    "pred": "American",
+    "answers": [
+      "Italy"
+    ]
+  },
+  {
+    "id": 207,
+    "question": "what films did Jeannot Szwarc direct",
+    "pred": "Jaws 2, Somewhere in Time, Supergirl, Santa Claus: The Movie, Enigma, Honor Bound.",
+    "answers": [
+      "Extreme Close-Up"
+    ]
+  },
+  {
+    "id": 208,
+    "question": "What genre of book is The Eye and the Finger",
+    "pred": "Fantasy",
+    "answers": [
+      "fantasy"
+    ]
+  },
+  {
+    "id": 209,
+    "question": "where in paris did  Stanley Loomis die",
+    "pred": "Paris",
+    "answers": [
+      "Paris"
+    ]
+  },
+  {
+    "id": 210,
+    "question": "What's an instrument that Jason McGerr plays",
+    "pred": "Drums",
+    "answers": [
+      "drum kit"
+    ]
+  },
+  {
+    "id": 211,
+    "question": "what state did Andrew Johnson die",
+    "pred": "Tennessee",
+    "answers": [
+      "Illinois"
+    ]
+  },
+  {
+    "id": 212,
+    "question": "What series did Go Nagai create?",
+    "pred": "Mazinger Z, Devilman, Cutie Honey, Violence Jack, Kekko Kamen, Shuten Doji.",
+    "answers": [
+      "Psycho Armor Govarian"
+    ]
+  },
+  {
+    "id": 213,
+    "question": "where in canada was George R. Ursul born?",
+    "pred": "Toronto, Ontario",
+    "answers": [
+      "Hamilton"
+    ]
+  },
+  {
+    "id": 214,
+    "question": "what was the reason for  Buddy Childers death",
+    "pred": "Natural causes",
+    "answers": [
+      "cancer"
+    ]
+  },
+  {
+    "id": 215,
+    "question": "who was born in Chicago?",
+    "pred": "Many individuals, including Barack Obama and Hillary Clinton.",
+    "answers": [
+      "Albert J. Smith"
+    ]
+  },
+  {
+    "id": 216,
+    "question": "who is the artist of Dee Gee Days: The Savoy Sessions",
+    "pred": "Dizzy Gillespie",
+    "answers": [
+      "Dizzy Gillespie"
+    ]
+  },
+  {
+    "id": 217,
+    "question": "what language was Prince of the Blood written in",
+    "pred": "English",
+    "answers": [
+      "English"
+    ]
+  },
+  {
+    "id": 218,
+    "question": "what kind of film is The Swinging Cheerleaders",
+    "pred": "Exploitation comedy",
+    "answers": [
+      "comedy-drama"
+    ]
+  },
+  {
+    "id": 219,
+    "question": "what is the genre of the movie The Musketeer",
+    "pred": "Action/Adventure",
+    "answers": [
+      "historical period drama"
+    ]
+  },
+  {
+    "id": 220,
+    "question": "is Shooting Star a crime fiction or comedy",
+    "pred": "Comedy",
+    "answers": [
+      "crime fiction"
+    ]
+  },
+  {
+    "id": 221,
+    "question": "what war did  Humphrey Osbaldston Brooke Firman participate in",
+    "pred": "World War I",
+    "answers": [
+      "World War I"
+    ]
+  },
+  {
+    "id": 222,
+    "question": "What is the ethnicity of Romani Rose",
+    "pred": "German",
+    "answers": [
+      "Romani people"
+    ]
+  },
+  {
+    "id": 223,
+    "question": "how did Joel Hirschhorn die?",
+    "pred": "Heart attack.",
+    "answers": [
+      "myocardial infarction"
+    ]
+  },
+  {
+    "id": 224,
+    "question": "Which time zone is Busto Garolfo in",
+    "pred": "Europe/Rome",
+    "answers": [
+      "Central European Time"
+    ]
+  },
+  {
+    "id": 225,
+    "question": "What is the transit line for the stop Haymarket?",
+    "pred": "Orange and Green Lines.",
+    "answers": [
+      "Orange Line"
+    ]
+  },
+  {
+    "id": 226,
+    "question": "what is a title in the vampire genre?",
+    "pred": "A name or designation for a vampire-themed work, character rank, or honorific.",
+    "answers": [
+      "Demon Under Glass"
+    ]
+  },
+  {
+    "id": 227,
+    "question": "who influenced Jason Smilovic",
+    "pred": "David Chase",
+    "answers": [
+      "Ernst Lubitsch"
+    ]
+  },
+  {
+    "id": 228,
+    "question": "what kind of book is The Scarab Murder Case",
+    "pred": "Detective novel",
+    "answers": [
+      "mystery"
+    ]
+  },
+  {
+    "id": 229,
+    "question": "Who is of the Indian people",
+    "pred": "The people of India.",
+    "answers": [
+      "Zayed Khan"
+    ]
+  },
+  {
+    "id": 230,
+    "question": "where was Anna Cora Mowatt born at?",
+    "pred": "Bordeaux, France",
+    "answers": [
+      "Bordeaux"
+    ]
+  },
+  {
+    "id": 231,
+    "question": "which famous city is Julius Evola from",
+    "pred": "Rome",
+    "answers": [
+      "Rome"
+    ]
+  },
+  {
+    "id": 232,
+    "question": "who made the album Heartland",
+    "pred": "Owen Pallett",
+    "answers": [
+      "Owen Pallett"
+    ]
+  },
+  {
+    "id": 233,
+    "question": "Kan Ishii was a composer for which film?",
+    "pred": "The Burmese Harp",
+    "answers": [
+      "Gorath"
+    ]
+  },
+  {
+    "id": 234,
+    "question": "Who is an artist on the sony classical record label?",
+    "pred": "Lang Lang",
+    "answers": [
+      "Valentin Radu"
+    ]
+  },
+  {
+    "id": 235,
+    "question": "what kind of music is griffin anthony associated with",
+    "pred": "Country",
+    "answers": [
+      "rock music"
+    ]
+  },
+  {
+    "id": 236,
+    "question": "what film was Terry O. Morse the editor for",
+    "pred": "\"Godzilla\" (1954)",
+    "answers": [
+      "Blue Hawaii"
+    ]
+  },
+  {
+    "id": 237,
+    "question": "Name a song from the Muqaddar Ka Faisla film soundtrack",
+    "pred": "\"Muqaddar Ka Faisla\"",
+    "answers": [
+      "Bappi Lahiri"
+    ]
+  },
+  {
+    "id": 238,
+    "question": "Where did Alec Burgess die",
+    "pred": "London",
+    "answers": [
+      "Waveney"
+    ]
+  },
+  {
+    "id": 239,
+    "question": "what sport is Yanya Caballista: City Skater about?",
+    "pred": "Skateboarding",
+    "answers": [
+      "skateboarding"
+    ]
+  },
+  {
+    "id": 240,
+    "question": "what time zone is Stanley in",
+    "pred": "Falkland Islands Standard Time (UTC-3)",
+    "answers": [
+      "Central Time Zone"
+    ]
+  },
+  {
+    "id": 241,
+    "question": "what is the country of origin of Shock to the System",
+    "pred": "United Kingdom",
+    "answers": [
+      "United States of America"
+    ]
+  },
+  {
+    "id": 242,
+    "question": "what is Constantinos Mina gender",
+    "pred": "Male",
+    "answers": [
+      "male"
+    ]
+  },
+  {
+    "id": 243,
+    "question": "chanson is a genre that what artist plays",
+    "pred": "French singer-songwriter",
+    "answers": [
+      "Shusha Guppy"
+    ]
+  },
+  {
+    "id": 244,
+    "question": "what's the name of a belgian forward",
+    "pred": "Eden Hazard",
+    "answers": [
+      "Raymond Braine"
+    ]
+  },
+  {
+    "id": 245,
+    "question": "what was Charlotte Schwab's gender?",
+    "pred": "Female",
+    "answers": [
+      "female"
+    ]
+  },
+  {
+    "id": 246,
+    "question": "what game is about professional wrestling?",
+    "pred": "WWE 2K series",
+    "answers": [
+      "WWF Raw"
+    ]
+  },
+  {
+    "id": 247,
+    "question": "who produced the film  Broadway Bill",
+    "pred": "Frank Capra",
+    "answers": [
+      "Frank Capra"
+    ]
+  },
+  {
+    "id": 248,
+    "question": "what country is Noi tre from?",
+    "pred": "Italy",
+    "answers": [
+      "Italy"
+    ]
+  },
+  {
+    "id": 249,
+    "question": "Which nation filmed Spread",
+    "pred": "Japan",
+    "answers": [
+      "United States of America"
+    ]
+  },
+  {
+    "id": 250,
+    "question": "who is a hard rock artist",
+    "pred": "AC/DC",
+    "answers": [
+      "Axium"
+    ]
+  },
+  {
+    "id": 251,
+    "question": "Who produced Double Wedding",
+    "pred": "Irving Thalberg and Hunt Stromberg",
+    "answers": [
+      "Joseph L. Mankiewicz"
+    ]
+  },
+  {
+    "id": 252,
+    "question": "what album was created by Airbourne",
+    "pred": "Runnin' Wild",
+    "answers": [
+      "Ready to Rock"
+    ]
+  },
+  {
+    "id": 253,
+    "question": "What is James Gordon's profession?",
+    "pred": "Police commissioner",
+    "answers": [
+      "missionary"
+    ]
+  },
+  {
+    "id": 254,
+    "question": "What country is Cowan Lake within",
+    "pred": "United States",
+    "answers": [
+      "Canada"
+    ]
+  },
+  {
+    "id": 255,
+    "question": "What is a town in Montgomery County",
+    "pred": "Silver Spring",
+    "answers": [
+      "Tarrytown"
+    ]
+  },
+  {
+    "id": 256,
+    "question": "What is the gender of Jim Lash?",
+    "pred": "Unknown",
+    "answers": [
+      "male"
+    ]
+  },
+  {
+    "id": 257,
+    "question": "What netflix genre is Cinderella categorized in?",
+    "pred": "Children & Family",
+    "answers": [
+      "drama"
+    ]
+  },
+  {
+    "id": 258,
+    "question": "Who has Joseph Conrad influenced?",
+    "pred": "F. Scott Fitzgerald, Ernest Hemingway, William Faulkner, T.S. Eliot, George Orwell, Gabriel García Márquez, and many modernist and postcolonial writers.",
+    "answers": [
+      "Cormac McCarthy"
+    ]
+  },
+  {
+    "id": 259,
+    "question": "what gender is dmitriy mamin-sibiryak",
+    "pred": "Male",
+    "answers": [
+      "male"
+    ]
+  },
+  {
+    "id": 260,
+    "question": "who was the artist of The Descent from the Cross",
+    "pred": "Rogier van der Weyden",
+    "answers": [
+      "Peter Paul Rubens"
+    ]
+  },
+  {
+    "id": 261,
+    "question": "where was Louis Raemaekers born",
+    "pred": "Roermond",
+    "answers": [
+      "Roermond"
+    ]
+  },
+  {
+    "id": 262,
+    "question": "what does 5991 Ivavladis orbit?",
+    "pred": "The Sun",
+    "answers": [
+      "Sun"
+    ]
+  },
+  {
+    "id": 263,
+    "question": "where was David Quinn born",
+    "pred": "Cranston, Rhode Island",
+    "answers": [
+      "Cranston"
+    ]
+  },
+  {
+    "id": 264,
+    "question": "what language is spoken in Illegal?",
+    "pred": "There is no officially recognized country or territory named \"Illegal.\"",
+    "answers": [
+      "English"
+    ]
+  },
+  {
+    "id": 265,
+    "question": "what language is used in the film the home and the world",
+    "pred": "Bengali",
+    "answers": [
+      "Bengali"
+    ]
+  },
+  {
+    "id": 266,
+    "question": "What is Roger Molliens gender?",
+    "pred": "Male",
+    "answers": [
+      "male"
+    ]
+  },
+  {
+    "id": 267,
+    "question": "What album was produced by kaci brown",
+    "pred": "I'm unable to provide information on that topic.",
+    "answers": [
+      "Madrid"
+    ]
+  },
+  {
+    "id": 268,
+    "question": "what film was Sidney Sheldon the story contributor for",
+    "pred": "\"The Buster Keaton Story\"",
+    "answers": [
+      "The Other Side of Midnight"
+    ]
+  },
+  {
+    "id": 269,
+    "question": "Name a netflix title from the Eastern Europe genre",
+    "pred": "The Last Czars",
+    "answers": [
+      "Loving Glances"
+    ]
+  },
+  {
+    "id": 270,
+    "question": "what city does KRCW-TV  broadcast to",
+    "pred": "Portland, Oregon",
+    "answers": [
+      "Salem"
+    ]
+  },
+  {
+    "id": 271,
+    "question": "What kind of music does Dwane Husbands make?",
+    "pred": "Reggae",
+    "answers": [
+      "pop music"
+    ]
+  },
+  {
+    "id": 272,
+    "question": "which language was spoken in the film Bully for Pink?",
+    "pred": "English",
+    "answers": [
+      "English"
+    ]
+  },
+  {
+    "id": 273,
+    "question": "what is the genre of the film Edge of Night",
+    "pred": "Thriller/Mystery",
+    "answers": [
+      "musical film"
+    ]
+  },
+  {
+    "id": 274,
+    "question": "who was Petrarch influenced by",
+    "pred": "Cicero, Virgil, and Augustine",
+    "answers": [
+      "Augustine of Hippo"
+    ]
+  },
+  {
+    "id": 275,
+    "question": "what soccer position does Juan Carlos Ecomba play",
+    "pred": "I am not aware of a professional soccer player named Juan Carlos Ecomba.",
+    "answers": [
+      "forward"
+    ]
+  },
+  {
+    "id": 276,
+    "question": "what genre is Persepolis classified as",
+    "pred": "Graphic novel memoir",
+    "answers": [
+      "war film"
+    ]
+  },
+  {
+    "id": 277,
+    "question": "what is the genre of the book The Guns of the South",
+    "pred": "Alternate history",
+    "answers": [
+      "historical fiction"
+    ]
+  },
+  {
+    "id": 278,
+    "question": "what country made the film heimat 3: a chronicle of beginnings and endings",
+    "pred": "Germany",
+    "answers": [
+      "Germany"
+    ]
+  },
+  {
+    "id": 279,
+    "question": "who is US artist known for photography",
+    "pred": "Ansel Adams",
+    "answers": [
+      "Aaron Rapoport"
+    ]
+  },
+  {
+    "id": 280,
+    "question": "Who is a roboticist born in Gelsenkirchen",
+    "pred": "Gerhard Schweitzer",
+    "answers": [
+      "Wolfram Burgard"
+    ]
+  },
+  {
+    "id": 281,
+    "question": "György Miklósy's nationality is in what country",
+    "pred": "Hungary",
+    "answers": [
+      "Hungary"
+    ]
+  },
+  {
+    "id": 282,
+    "question": "what kind of tv show is WordGirl",
+    "pred": "Animated children's educational series.",
+    "answers": [
+      "animated series"
+    ]
+  },
+  {
+    "id": 283,
+    "question": "what position does Mark Cartwright play?",
+    "pred": "Midfielder",
+    "answers": [
+      "goalkeeper"
+    ]
+  },
+  {
+    "id": 284,
+    "question": "what is the title name of a drama film",
+    "pred": "Drama.",
+    "answers": [
+      "UNDEFINED_LABEL"
+    ]
+  },
+  {
+    "id": 285,
+    "question": "What position did Ryan Charles play",
+    "pred": "Catcher",
+    "answers": [
+      "midfielder"
+    ]
+  },
+  {
+    "id": 286,
+    "question": "what genre is Made of Bricks",
+    "pred": "Indie pop",
+    "answers": [
+      "alternative rock"
+    ]
+  },
+  {
+    "id": 287,
+    "question": "who is one of James Wilfred Estey's children",
+    "pred": "Marilyn Monroe",
+    "answers": [
+      "Willard Estey"
+    ]
+  },
+  {
+    "id": 288,
+    "question": "what is one of the municipalities located in Brazil",
+    "pred": "São Paulo",
+    "answers": [
+      "Botuporã"
+    ]
+  },
+  {
+    "id": 289,
+    "question": "what movie is action film",
+    "pred": "There are many action films; could you specify a title or detail?",
+    "answers": [
+      "Sunflower"
+    ]
+  },
+  {
+    "id": 290,
+    "question": "Who influenced Michael McDowell?",
+    "pred": "Stephen King, H.P. Lovecraft, and Edgar Allan Poe",
+    "answers": [
+      "H. P. Lovecraft"
+    ]
+  },
+  {
+    "id": 291,
+    "question": "What is the name of a popular electro artist",
+    "pred": "Daft Punk",
+    "answers": [
+      "C-drik Fermont"
+    ]
+  },
+  {
+    "id": 292,
+    "question": "where was Regine Lutz born",
+    "pred": "Zurich, Switzerland",
+    "answers": [
+      "Basel"
+    ]
+  },
+  {
+    "id": 293,
+    "question": "Where did John Berchmans die?",
+    "pred": "Rome, Italy",
+    "answers": [
+      "Rome"
+    ]
+  },
+  {
+    "id": 294,
+    "question": "what kind of book is Hansel and Gretel",
+    "pred": "Fairy tale",
+    "answers": [
+      "fairy tale"
+    ]
+  },
+  {
+    "id": 295,
+    "question": "Which country is The Famous Jett Jackson from",
+    "pred": "Canada",
+    "answers": [
+      "United States of America"
+    ]
+  },
+  {
+    "id": 296,
+    "question": "Which film did Barry Adamson work on?",
+    "pred": "Lost Highway",
+    "answers": [
+      "Dreams of a Life"
+    ]
+  },
+  {
+    "id": 297,
+    "question": "what gender is Daniela Cristofori",
+    "pred": "Female",
+    "answers": [
+      "female"
+    ]
+  },
+  {
+    "id": 298,
+    "question": "What language is The Green Hornet in?",
+    "pred": "English",
+    "answers": [
+      "English"
+    ]
+  },
+  {
+    "id": 299,
+    "question": "Name a person born in England.",
+    "pred": "William Shakespeare",
+    "answers": [
+      "Merz"
+    ]
+  },
+  {
+    "id": 300,
+    "question": "Name a film classified as a biographical film.",
+    "pred": "The Imitation Game",
+    "answers": [
+      "UNDEFINED_LABEL"
+    ]
+  },
+  {
+    "id": 301,
+    "question": "what country gives Anna Maria Perez de Taglé her nationality",
+    "pred": "United States",
+    "answers": [
+      "United States of America"
+    ]
+  },
+  {
+    "id": 302,
+    "question": "which artist released Live from Across the Pond?",
+    "pred": "Foo Fighters",
+    "answers": [
+      "Robert Cray"
+    ]
+  },
+  {
+    "id": 303,
+    "question": "where is the film bride of violence from",
+    "pred": "Iran",
+    "answers": [
+      "Italy"
+    ]
+  },
+  {
+    "id": 304,
+    "question": "which country is Saga Prefecture located",
+    "pred": "Japan",
+    "answers": [
+      "Japan"
+    ]
+  },
+  {
+    "id": 305,
+    "question": "Who died from a myocardial infarction?",
+    "pred": "Many individuals, including celebrities like John Ritter, Carrie Fisher, and James Gandolfini, have died from myocardial infarctions.",
+    "answers": [
+      "George Formby"
+    ]
+  },
+  {
+    "id": 306,
+    "question": "where is Pennsylvania situated",
+    "pred": "In the northeastern United States.",
+    "answers": [
+      "United States of America"
+    ]
+  },
+  {
+    "id": 307,
+    "question": "What instrumentalist is known for using a drum kit?",
+    "pred": "Drummer",
+    "answers": [
+      "Johnny Carson"
+    ]
+  },
+  {
+    "id": 308,
+    "question": "what time zone is Summerville in",
+    "pred": "Eastern Time Zone (ET)",
+    "answers": [
+      "Pacific Time Zone"
+    ]
+  },
+  {
+    "id": 309,
+    "question": "who produced the film The Scarlet Lady",
+    "pred": "Michael Powell and Emeric Pressburger",
+    "answers": [
+      "Harry Cohn"
+    ]
+  },
+  {
+    "id": 310,
+    "question": "What is the record label of Clare Fischer",
+    "pred": "Pachyderm",
+    "answers": [
+      "Entertainment One Music"
+    ]
+  },
+  {
+    "id": 311,
+    "question": "Which country did Søren Rode have nationality",
+    "pred": "Denmark",
+    "answers": [
+      "Denmark"
+    ]
+  },
+  {
+    "id": 312,
+    "question": "what is a suspense film on netflix?",
+    "pred": "A Quiet Place",
+    "answers": [
+      "Shank"
+    ]
+  },
+  {
+    "id": 313,
+    "question": "what body of water does the Richmond–San Rafael Bridge span",
+    "pred": "San Pablo Bay",
+    "answers": [
+      "San Francisco Bay"
+    ]
+  },
+  {
+    "id": 314,
+    "question": "who is the artist on The Geometrid",
+    "pred": "Lo Fidelity Allstars",
+    "answers": [
+      "Loopers"
+    ]
+  },
+  {
+    "id": 315,
+    "question": "which two-part Yuri tv program was featured in 2010?",
+    "pred": "Aoi Hana",
+    "answers": [
+      "Kuttsukiboshi"
+    ]
+  },
+  {
+    "id": 316,
+    "question": "What's an example of a drama film",
+    "pred": "The Godfather",
+    "answers": [
+      "The Assault"
+    ]
+  },
+  {
+    "id": 317,
+    "question": "what illness did Michael Visaroff die from",
+    "pred": "Pneumonia",
+    "answers": [
+      "pneumonia"
+    ]
+  },
+  {
+    "id": 318,
+    "question": "what is the name of a biography on netflix",
+    "pred": "The specific title depends on current Netflix offerings, as they vary by region and change frequently.",
+    "answers": [
+      "Christopher Columbus"
+    ]
+  },
+  {
+    "id": 319,
+    "question": "who directed the movie Ain't She Tweet",
+    "pred": "The user is asking about the director of a movie called \"Ain't She Tweet.\" I don't recognize this title immediately, so I should verify if it's a real film. It might be a lesser-known independent movie or perhaps a parody title. \n\nI recall that \"Ain't She Sweet\" is a",
+    "answers": [
+      "Friz Freleng"
+    ]
+  },
+  {
+    "id": 320,
+    "question": "what type of music does thao nguyen and the get down stay down perform",
+    "pred": "Indie folk rock",
+    "answers": [
+      "alternative rock"
+    ]
+  },
+  {
+    "id": 321,
+    "question": "how did Roy Roberts die",
+    "pred": "He died of natural causes.",
+    "answers": [
+      "myocardial infarction"
+    ]
+  },
+  {
+    "id": 322,
+    "question": "what football player was born in Singapore",
+    "pred": "Fandi Ahmad",
+    "answers": [
+      "Raihan Rahman"
+    ]
+  },
+  {
+    "id": 323,
+    "question": "which kind of music does The Sons play?",
+    "pred": "Rock",
+    "answers": [
+      "pop rock"
+    ]
+  },
+  {
+    "id": 324,
+    "question": "What would be a MTV show",
+    "pred": "Cribs",
+    "answers": [
+      "Beavis and Butt-head Do America"
+    ]
+  },
+  {
+    "id": 325,
+    "question": "what country created the film  Prema Kavali",
+    "pred": "India",
+    "answers": [
+      "India"
+    ]
+  },
+  {
+    "id": 326,
+    "question": "What is the name of a film that was produced by John Lasseter",
+    "pred": "Toy Story",
+    "answers": [
+      "Spirited Away"
+    ]
+  },
+  {
+    "id": 327,
+    "question": "Who did Sigmund Freud influence?",
+    "pred": "Carl Jung, Alfred Adler, Anna Freud, Jacques Lacan, Wilhelm Reich, and modern psychology.",
+    "answers": [
+      "Carl Jung"
+    ]
+  },
+  {
+    "id": 328,
+    "question": "what genre of music does the artist Kimberley Locke belong to?",
+    "pred": "Pop",
+    "answers": [
+      "adult contemporary music"
+    ]
+  },
+  {
+    "id": 329,
+    "question": "what is an example of an ambient music album",
+    "pred": "Brian Eno's \"Music for Airports\".",
+    "answers": [
+      "Standing on a Hummingbird"
+    ]
+  },
+  {
+    "id": 330,
+    "question": "In which city was William Greene Turner born?",
+    "pred": "Newport, Rhode Island",
+    "answers": [
+      "Newport"
+    ]
+  },
+  {
+    "id": 331,
+    "question": "which historical events took place in osaka prefecture?",
+    "pred": "Osaka Castle construction (1583), Siege of Osaka (1614-1615), Meiji Restoration conflicts, 1934 Muroto typhoon damage, World War II air raids (1945), 1970 Expo, 1995 Great Hanshin Earthquake (partially).",
+    "answers": [
+      "Battle of Dōmyōji"
+    ]
+  },
+  {
+    "id": 332,
+    "question": "what city did Sam Whipple die in",
+    "pred": "New York City",
+    "answers": [
+      "Los Angeles"
+    ]
+  },
+  {
+    "id": 333,
+    "question": "What is Graham Rix's profession?",
+    "pred": "Football manager and former player.",
+    "answers": [
+      "sports coach"
+    ]
+  },
+  {
+    "id": 334,
+    "question": "Where is Peravia Province?",
+    "pred": "Dominican Republic",
+    "answers": [
+      "Dominican Republic"
+    ]
+  },
+  {
+    "id": 335,
+    "question": "where was Osvaldo Golijov born?",
+    "pred": "La Plata, Argentina",
+    "answers": [
+      "La Plata"
+    ]
+  },
+  {
+    "id": 336,
+    "question": "who is the artist that recorded Willie – Before His Time",
+    "pred": "Billy Ray Cyrus",
+    "answers": [
+      "Willie Nelson"
+    ]
+  },
+  {
+    "id": 337,
+    "question": "what is the profession of Maja Ostaszewska?",
+    "pred": "Actress",
+    "answers": [
+      "actor"
+    ]
+  },
+  {
+    "id": 338,
+    "question": "What's a movie produced by Paramount Pictures starring jack black",
+    "pred": "School of Rock",
+    "answers": [
+      "School of Rock"
+    ]
+  },
+  {
+    "id": 339,
+    "question": "Where was Sadi Cabral deceased?",
+    "pred": "Fortaleza, Brazil.",
+    "answers": [
+      "São Paulo"
+    ]
+  },
+  {
+    "id": 340,
+    "question": "Who did Edmund Husserl inspire",
+    "pred": "Martin Heidegger, Maurice Merleau-Ponty, Jean-Paul Sartre, and the phenomenological movement.",
+    "answers": [
+      "Gabriel Marcel"
+    ]
+  },
+  {
+    "id": 341,
+    "question": "who wrote The Origins of Totalitarianism",
+    "pred": "Hannah Arendt",
+    "answers": [
+      "Hannah Arendt"
+    ]
+  },
+  {
+    "id": 342,
+    "question": "what is an album recorded by Ane Brun",
+    "pred": "It All Starts With One",
+    "answers": [
+      "It All Starts with One"
+    ]
+  },
+  {
+    "id": 343,
+    "question": "WHat kind of game is Tank Battalion",
+    "pred": "Arcade",
+    "answers": [
+      "shooter game"
+    ]
+  },
+  {
+    "id": 344,
+    "question": "what type of music does Lodovica Comello sing?",
+    "pred": "Pop",
+    "answers": [
+      "dance-pop"
+    ]
+  },
+  {
+    "id": 345,
+    "question": "who was buried in Forest Lawn Memorial Park?",
+    "pred": "Numerous notable individuals, including celebrities like Michael Jackson, Elizabeth Taylor, and Walt Disney.",
+    "answers": [
+      "William Mulholland"
+    ]
+  },
+  {
+    "id": 346,
+    "question": "What fatal action caused Cathy Wayne's death?",
+    "pred": "Shot",
+    "answers": [
+      "gunshot"
+    ]
+  },
+  {
+    "id": 347,
+    "question": "what kind of album is collection 005",
+    "pred": "Music compilation album",
+    "answers": [
+      "free improvisation"
+    ]
+  },
+  {
+    "id": 348,
+    "question": "what kind of show is the Space Sentinels",
+    "pred": "Animated children's science fiction series.",
+    "answers": [
+      "animated film"
+    ]
+  },
+  {
+    "id": 349,
+    "question": "which country is Guy Côté from",
+    "pred": "Canada",
+    "answers": [
+      "Canada"
+    ]
+  },
+  {
+    "id": 350,
+    "question": "what is Terry Cummings's ethnicity?",
+    "pred": "African-American",
+    "answers": [
+      "African Americans"
+    ]
+  },
+  {
+    "id": 351,
+    "question": "whats the name of a player who plays as a catcher",
+    "pred": "Catcher",
+    "answers": [
+      "Hidekazu Hoshi"
+    ]
+  },
+  {
+    "id": 352,
+    "question": "Name a musical film starring michael j fox",
+    "pred": "Back to the Future",
+    "answers": [
+      "Light of Day"
+    ]
+  },
+  {
+    "id": 353,
+    "question": "what nationality is rebecca neuenschwander",
+    "pred": "Swiss",
+    "answers": [
+      "United States of America"
+    ]
+  },
+  {
+    "id": 354,
+    "question": "who was the producer for  Butterflies Are Free",
+    "pred": "Harold Hecht",
+    "answers": [
+      "M. J. Frankovich"
+    ]
+  },
+  {
+    "id": 355,
+    "question": "which city was Edward English born",
+    "pred": "Boston",
+    "answers": [
+      "Dorking"
+    ]
+  },
+  {
+    "id": 356,
+    "question": "who in the world was born in Mexico",
+    "pred": "Numerous individuals, including notable figures like Frida Kahlo, Diego Rivera, Salma Hayek, and Carlos Slim.",
+    "answers": [
+      "Celia Montalván"
+    ]
+  },
+  {
+    "id": 357,
+    "question": "What kind of movie was Love and Courage",
+    "pred": "Drama",
+    "answers": [
+      "silent film"
+    ]
+  },
+  {
+    "id": 358,
+    "question": "which lyrics did Bobby Byrd write",
+    "pred": "\"Get Up (I Feel Like Being a) Sex Machine\" and \"Licking Stick – Licking Stick\"",
+    "answers": [
+      "I Cried"
+    ]
+  },
+  {
+    "id": 359,
+    "question": "who was born in Scotland",
+    "pred": "Many individuals, including historical figures like Mary, Queen of Scots, and Alexander Graham Bell.",
+    "answers": [
+      "Bobby Brown"
+    ]
+  },
+  {
+    "id": 360,
+    "question": "which country is Phillips Idowu from",
+    "pred": "Great Britain",
+    "answers": [
+      "Nigeria"
+    ]
+  },
+  {
+    "id": 361,
+    "question": "what gameplay mode can you play Rally Fusion: Race of Champions in",
+    "pred": "Single-player and multiplayer modes.",
+    "answers": [
+      "single-player video game"
+    ]
+  },
+  {
+    "id": 362,
+    "question": "Austin Lane Crothers died in this city and state.",
+    "pred": "Baltimore, Maryland",
+    "answers": [
+      "Elkton"
+    ]
+  },
+  {
+    "id": 363,
+    "question": "whats the title of a movie that is classified as a netflix television movie",
+    "pred": "The Irishman",
+    "answers": [
+      "Dinner with Friends"
+    ]
+  },
+  {
+    "id": 364,
+    "question": "What is the sex of James Brooks (whig)?",
+    "pred": "Unknown",
+    "answers": [
+      "male"
+    ]
+  },
+  {
+    "id": 365,
+    "question": "what genre of music is performed by the Twelve Foot Ninja group",
+    "pred": "Progressive metal/funk metal",
+    "answers": [
+      "dub"
+    ]
+  },
+  {
+    "id": 366,
+    "question": "Where was Alejandro Luna born?",
+    "pred": "Mexico City, Mexico",
+    "answers": [
+      "Mexico City"
+    ]
+  },
+  {
+    "id": 367,
+    "question": "what nationality is Priscilla Slade?",
+    "pred": "American",
+    "answers": [
+      "United States of America"
+    ]
+  },
+  {
+    "id": 368,
+    "question": "who is Camp Douglas (chicago) named after",
+    "pred": "Stephen A. Douglas",
+    "answers": [
+      "Stephen A. Douglas"
+    ]
+  },
+  {
+    "id": 369,
+    "question": "What religion is Charlotte Casiraghi?",
+    "pred": "Roman Catholicism",
+    "answers": [
+      "Catholicism"
+    ]
+  },
+  {
+    "id": 370,
+    "question": "What's an indie film released in 1911",
+    "pred": "The Lonedale Operator",
+    "answers": [
+      "Cally's Comet"
+    ]
+  },
+  {
+    "id": 371,
+    "question": "where is John B. Mansbridge's country of nationality",
+    "pred": "United States",
+    "answers": [
+      "United States of America"
+    ]
+  },
+  {
+    "id": 372,
+    "question": "who produced the film Sarah Palin: You Betcha!",
+    "pred": "Nick Doob and Joan Churchill",
+    "answers": [
+      "Nick Broomfield"
+    ]
+  },
+  {
+    "id": 373,
+    "question": "what kind of game is Ski or Die?",
+    "pred": "Extreme sports video game",
+    "answers": [
+      "sports video game"
+    ]
+  },
+  {
+    "id": 374,
+    "question": "what is the netflix genre of the title The Wild Child",
+    "pred": "Documentary",
+    "answers": [
+      "French"
+    ]
+  },
+  {
+    "id": 375,
+    "question": "Who is the artist for the piece, El Rio de Luz?",
+    "pred": "Thomas Moran",
+    "answers": [
+      "Frederic Edwin Church"
+    ]
+  },
+  {
+    "id": 376,
+    "question": "which country was the Honey, I Shrunk the Audience! movie filmed",
+    "pred": "United States",
+    "answers": [
+      "United States of America"
+    ]
+  },
+  {
+    "id": 377,
+    "question": "which war did Edward A. DeVore, Jr. fight in",
+    "pred": "World War II",
+    "answers": [
+      "Vietnam War"
+    ]
+  },
+  {
+    "id": 378,
+    "question": "who was St. Patrick High School named after?",
+    "pred": "St. Patrick",
+    "answers": [
+      "Saint Patrick"
+    ]
+  },
+  {
+    "id": 379,
+    "question": "what kind of movie is The Strangers",
+    "pred": "Horror thriller",
+    "answers": [
+      "horror film"
+    ]
+  },
+  {
+    "id": 380,
+    "question": "what position does Stavros Georgiou play in soccer?",
+    "pred": "Midfielder",
+    "answers": [
+      "midfielder"
+    ]
+  },
+  {
+    "id": 381,
+    "question": "what is a film in the Lethal Weapon series",
+    "pred": "A buddy cop action film.",
+    "answers": [
+      "Lethal Weapon 4"
+    ]
+  },
+  {
+    "id": 382,
+    "question": "what kind of movie is Vulgar",
+    "pred": "Comedy-drama",
+    "answers": [
+      "drama film"
+    ]
+  },
+  {
+    "id": 383,
+    "question": "what is the film directed by James Hong",
+    "pred": "The film directed by James Hong is \"The Vineyard\" (1989).",
+    "answers": [
+      "The Vineyard"
+    ]
+  },
+  {
+    "id": 384,
+    "question": "what was Jack Bickham's place of death",
+    "pred": "Oklahoma City, Oklahoma",
+    "answers": [
+      "Norman"
+    ]
+  },
+  {
+    "id": 385,
+    "question": "What genre does the album Greatest Kiss belong to",
+    "pred": "Hard rock",
+    "answers": [
+      "hard rock"
+    ]
+  },
+  {
+    "id": 386,
+    "question": "What is the original language of the book Wizard's First Rule",
+    "pred": "English",
+    "answers": [
+      "English"
+    ]
+  },
+  {
+    "id": 387,
+    "question": "Where was Lee Hazlewood when he died",
+    "pred": "Nashville, Tennessee",
+    "answers": [
+      "Henderson"
+    ]
+  },
+  {
+    "id": 388,
+    "question": "What country is Connor Pain from?",
+    "pred": "Australia",
+    "answers": [
+      "Australia"
+    ]
+  },
+  {
+    "id": 389,
+    "question": "Who directed the film Kishen Kanhaiya",
+    "pred": "Rakesh Kumar",
+    "answers": [
+      "Rakesh Roshan"
+    ]
+  },
+  {
+    "id": 390,
+    "question": "what is the tittle of an entrepreneur who opens and runs restaurants professionally",
+    "pred": "Restaurateur",
+    "answers": [
+      "restaurateur"
+    ]
+  },
+  {
+    "id": 391,
+    "question": "which city was Gustaf Unger born in",
+    "pred": "Berlin",
+    "answers": [
+      "Stockholm"
+    ]
+  },
+  {
+    "id": 392,
+    "question": "what language is Bhanwara spoken",
+    "pred": "Hindi",
+    "answers": [
+      "Hindi"
+    ]
+  },
+  {
+    "id": 393,
+    "question": "Who directed the film mabels blunder",
+    "pred": "Mabel Normand",
+    "answers": [
+      "Mack Sennett"
+    ]
+  },
+  {
+    "id": 394,
+    "question": "Where was Tony Lormor born",
+    "pred": "Worksop, England",
+    "answers": [
+      "Ashington"
+    ]
+  },
+  {
+    "id": 395,
+    "question": "What's a conflict that took place in Washington County",
+    "pred": "The Battle of Hanging Rock",
+    "answers": [
+      "Battle of Hancock"
+    ]
+  },
+  {
+    "id": 396,
+    "question": "Who composed Private Eyes (song)?",
+    "pred": "Daryl Hall and John Oates",
+    "answers": [
+      "Daryl Hall"
+    ]
+  },
+  {
+    "id": 397,
+    "question": "Where was Steven Pallos born",
+    "pred": "New York City",
+    "answers": [
+      "Austria-Hungary"
+    ]
+  },
+  {
+    "id": 398,
+    "question": "Which American science writer was born in Washington, D.C.?",
+    "pred": "Carl Sagan",
+    "answers": [
+      "Karen C. Fox"
+    ]
+  },
+  {
+    "id": 399,
+    "question": "which time zone is Upper Normandy in",
+    "pred": "UTC+1 (CET)",
+    "answers": [
+      "Central European Time"
+    ]
+  },
+  {
+    "id": 400,
+    "question": "who was the editor for Malcolm Campbell",
+    "pred": "Johnston",
+    "answers": [
+      "Nothing but Trouble"
+    ]
+  },
+  {
+    "id": 401,
+    "question": "what kind of show is Mobile Suit Gundam 00?",
+    "pred": "Anime",
+    "answers": [
+      "anime"
+    ]
+  },
+  {
+    "id": 402,
+    "question": "Audrey Williams performs which genre of music?",
+    "pred": "Country",
+    "answers": [
+      "country music"
+    ]
+  },
+  {
+    "id": 403,
+    "question": "what type of movie is take me home: the john denver story",
+    "pred": "Biographical drama",
+    "answers": [
+      "drama film"
+    ]
+  },
+  {
+    "id": 404,
+    "question": "What is the name of a pop music DJ",
+    "pred": "Calvin Harris",
+    "answers": [
+      "DJ Sender"
+    ]
+  },
+  {
+    "id": 405,
+    "question": "which military was involved in the Second Battle of Fort Fisher",
+    "pred": "Confederate and Union armies",
+    "answers": [
+      "Union"
+    ]
+  },
+  {
+    "id": 406,
+    "question": "what is the production company of Zodiac (film)?",
+    "pred": "Paramount Pictures",
+    "answers": [
+      "Warner Bros."
+    ]
+  },
+  {
+    "id": 407,
+    "question": "what player mode is available for Dance Dance Revolution Ultramix 3?",
+    "pred": "Single Player, Versus, Double, Couple, Workout",
+    "answers": [
+      "single-player video game"
+    ]
+  },
+  {
+    "id": 408,
+    "question": "which position does Albert Brülls play",
+    "pred": "Midfielder",
+    "answers": [
+      "midfielder"
+    ]
+  },
+  {
+    "id": 409,
+    "question": "what type of architectural style does Shingle style architecture use",
+    "pred": "Shingle style",
+    "answers": [
+      "Naulakha (Rudyard Kipling House)"
+    ]
+  },
+  {
+    "id": 410,
+    "question": "What is the name of Spongebob's game",
+    "pred": "Jellyfishing",
+    "answers": [
+      "SpongeBob SquarePants: Lights, Camera, Pants!"
+    ]
+  },
+  {
+    "id": 411,
+    "question": "who directed Kindred of the Dust",
+    "pred": "Victor Fleming",
+    "answers": [
+      "Raoul Walsh"
+    ]
+  },
+  {
+    "id": 412,
+    "question": "Name a person of Cherokee descent.",
+    "pred": "Will Rogers",
+    "answers": [
+      "Christopher Judge"
+    ]
+  },
+  {
+    "id": 413,
+    "question": "what genre of music does Monrose belong to?",
+    "pred": "Pop",
+    "answers": [
+      "contemporary R&B"
+    ]
+  },
+  {
+    "id": 414,
+    "question": "Who was a football forward",
+    "pred": "Pelé",
+    "answers": [
+      "Paulo Rink"
+    ]
+  },
+  {
+    "id": 415,
+    "question": "Which artist is associated with the sony classical record label",
+    "pred": "Yo-Yo Ma",
+    "answers": [
+      "Terence Blanchard"
+    ]
+  },
+  {
+    "id": 416,
+    "question": "what country is Paul Gratzik from",
+    "pred": "Germany",
+    "answers": [
+      "Germany"
+    ]
+  },
+  {
+    "id": 417,
+    "question": "What is Neil Sloane's gender?",
+    "pred": "Male",
+    "answers": [
+      "male"
+    ]
+  },
+  {
+    "id": 418,
+    "question": "what is the artist Siouxsie Sioux's genre",
+    "pred": "Post-punk, gothic rock",
+    "answers": [
+      "post-punk"
+    ]
+  },
+  {
+    "id": 419,
+    "question": "What type of genre is The Blue Umbrella filmed in?",
+    "pred": "Live-action/animated fantasy",
+    "answers": [
+      "experimental film"
+    ]
+  },
+  {
+    "id": 420,
+    "question": "What type of film is Gentlemen Broncos?",
+    "pred": "Comedy",
+    "answers": [
+      "independent film"
+    ]
+  },
+  {
+    "id": 421,
+    "question": "who does pop music",
+    "pred": "Artists and singers.",
+    "answers": [
+      "Jackson Rohm"
+    ]
+  },
+  {
+    "id": 422,
+    "question": "what is a 1921 drama film",
+    "pred": "\"Orphans of the Storm\"",
+    "answers": [
+      "All Sorts and Conditions of Men"
+    ]
+  },
+  {
+    "id": 423,
+    "question": "What episode of Star Trek was Lee Sheldon a writer on",
+    "pred": "\"Shore Leave\"",
+    "answers": [
+      "Remember Me"
+    ]
+  },
+  {
+    "id": 424,
+    "question": "of what nationality is Ken McGoogan",
+    "pred": "Canadian",
+    "answers": [
+      "Canada"
+    ]
+  },
+  {
+    "id": 425,
+    "question": "Which county was Mike Ingham born?",
+    "pred": "Cheshire",
+    "answers": [
+      "Cheshire"
+    ]
+  },
+  {
+    "id": 426,
+    "question": "what profession does Masato Hagiwara have",
+    "pred": "Voice actor",
+    "answers": [
+      "voice actor"
+    ]
+  },
+  {
+    "id": 427,
+    "question": "Who published the videogame The Manhole",
+    "pred": "Cyan Worlds",
+    "answers": [
+      "Brøderbund"
+    ]
+  },
+  {
+    "id": 428,
+    "question": "Name a thrash metal artist",
+    "pred": "Slayer",
+    "answers": [
+      "Tim Lambesis"
+    ]
+  },
+  {
+    "id": 429,
+    "question": "who is a Czech defender",
+    "pred": "Patrik Schick",
+    "answers": [
+      "Benjamin Vomáčka"
+    ]
+  },
+  {
+    "id": 430,
+    "question": "What is the name of a Western (genre) film?",
+    "pred": "The Good, the Bad and the Ugly",
+    "answers": [
+      "Sierra Sue"
+    ]
+  },
+  {
+    "id": 431,
+    "question": "what kind of book is The Purple Cloud",
+    "pred": "Novel",
+    "answers": [
+      "horror film"
+    ]
+  },
+  {
+    "id": 432,
+    "question": "What was the nationality of Duane Niatum?",
+    "pred": "American",
+    "answers": [
+      "United States of America"
+    ]
+  },
+  {
+    "id": 433,
+    "question": "what language is spoken in Stranger on Horseback?",
+    "pred": "English",
+    "answers": [
+      "English"
+    ]
+  },
+  {
+    "id": 434,
+    "question": "what language is the movie never belongs to me in",
+    "pred": "English",
+    "answers": [
+      "Korean"
+    ]
+  },
+  {
+    "id": 435,
+    "question": "what is James Mitchell (manager)'s gender?",
+    "pred": "Male",
+    "answers": [
+      "male"
+    ]
+  },
+  {
+    "id": 436,
+    "question": "what is the religion of  Shawn Bradley",
+    "pred": "Mormon",
+    "answers": [
+      "The Church of Jesus Christ of Latter-day Saints"
+    ]
+  },
+  {
+    "id": 437,
+    "question": "who was a big influence of William Gibson",
+    "pred": "Cyberpunk authors like J.G. Ballard and William S. Burroughs.",
+    "answers": [
+      "Ursula K. Le Guin"
+    ]
+  },
+  {
+    "id": 438,
+    "question": "what position does Alemayo Kebede play",
+    "pred": "Midfielder",
+    "answers": [
+      "midfielder"
+    ]
+  },
+  {
+    "id": 439,
+    "question": "which country held Battle of the Samichon River",
+    "pred": "North Korea",
+    "answers": [
+      "United Kingdom"
+    ]
+  },
+  {
+    "id": 440,
+    "question": "is Milton Green male or female",
+    "pred": "Male",
+    "answers": [
+      "male"
+    ]
+  },
+  {
+    "id": 441,
+    "question": "Who is someone that has died from stroke",
+    "pred": "Ruth Bader Ginsburg",
+    "answers": [
+      "Lee Kwan"
+    ]
+  },
+  {
+    "id": 442,
+    "question": "what is cassiesteele's gender?",
+    "pred": "Female",
+    "answers": [
+      "female"
+    ]
+  },
+  {
+    "id": 443,
+    "question": "What is Emily Kwan's gender?",
+    "pred": "Female",
+    "answers": [
+      "female"
+    ]
+  },
+  {
+    "id": 444,
+    "question": "What is the ethnicity of Abe Vigoda",
+    "pred": "Italian-American",
+    "answers": [
+      "Russian Americans"
+    ]
+  },
+  {
+    "id": 445,
+    "question": "what genre of music is the sensational Alex Harvey band known for",
+    "pred": "Glam rock, hard rock",
+    "answers": [
+      "rock and roll"
+    ]
+  },
+  {
+    "id": 446,
+    "question": "name a professional writer.",
+    "pred": "Stephen King",
+    "answers": [
+      "Earl Wilson"
+    ]
+  },
+  {
+    "id": 447,
+    "question": "Which instrument did Grete Sultan play?",
+    "pred": "Piano",
+    "answers": [
+      "piano"
+    ]
+  },
+  {
+    "id": 448,
+    "question": "What is the higher classification of the wild cat?",
+    "pred": "Felidae",
+    "answers": [
+      "Felis"
+    ]
+  },
+  {
+    "id": 449,
+    "question": "what football position is played by Martin Brittain",
+    "pred": "Winger",
+    "answers": [
+      "midfielder"
+    ]
+  },
+  {
+    "id": 450,
+    "question": "what is the nationality of William Rolleston",
+    "pred": "New Zealand",
+    "answers": [
+      "New Zealand"
+    ]
+  },
+  {
+    "id": 451,
+    "question": "what gender is Chris Jones",
+    "pred": "Chris Jones is male.",
+    "answers": [
+      "male"
+    ]
+  },
+  {
+    "id": 452,
+    "question": "What netflix genre does Uniform belong to",
+    "pred": "Drama",
+    "answers": [
+      "Hong Kong"
+    ]
+  },
+  {
+    "id": 453,
+    "question": "who published Neo Contra",
+    "pred": "Konami",
+    "answers": [
+      "Konami"
+    ]
+  },
+  {
+    "id": 454,
+    "question": "who is the musician that created Jaleo",
+    "pred": "Juan Tizol",
+    "answers": [
+      "Ricky Martin"
+    ]
+  },
+  {
+    "id": 455,
+    "question": "what kind of show is The Dick Cavett Show",
+    "pred": "Talk show",
+    "answers": [
+      "talk show"
+    ]
+  },
+  {
+    "id": 456,
+    "question": "what type of movie is Freeze Frame",
+    "pred": "Thriller",
+    "answers": [
+      "crime thriller"
+    ]
+  },
+  {
+    "id": 457,
+    "question": "where was Doug West born",
+    "pred": "Baltimore, Maryland",
+    "answers": [
+      "Altoona"
+    ]
+  },
+  {
+    "id": 458,
+    "question": "who was born in Templemore?",
+    "pred": "Eoin Kelly",
+    "answers": [
+      "Charles Monck, 4th Viscount Monck"
+    ]
+  },
+  {
+    "id": 459,
+    "question": "what is an example of a political satire",
+    "pred": "Animal Farm by George Orwell",
+    "answers": [
+      "Protocol"
+    ]
+  },
+  {
+    "id": 460,
+    "question": "Name a alternative rock artist.",
+    "pred": "Radiohead",
+    "answers": [
+      "Wave Machines"
+    ]
+  },
+  {
+    "id": 461,
+    "question": "what is the nationality of  Richard Taundry",
+    "pred": "Australian",
+    "answers": [
+      "England"
+    ]
+  },
+  {
+    "id": 462,
+    "question": "who plays as a defender in football",
+    "pred": "Defenders",
+    "answers": [
+      "Michel Kreek"
+    ]
+  },
+  {
+    "id": 463,
+    "question": "in what city did Paul Peek die",
+    "pred": "Sacramento",
+    "answers": [
+      "Sacramento"
+    ]
+  },
+  {
+    "id": 464,
+    "question": "is The Green Monocle from germany or england",
+    "pred": "England",
+    "answers": [
+      "Germany"
+    ]
+  },
+  {
+    "id": 465,
+    "question": "what is the musical album Above's genre?",
+    "pred": "Electronic",
+    "answers": [
+      "black metal"
+    ]
+  },
+  {
+    "id": 466,
+    "question": "what is the genre of the album The Lover in Me?",
+    "pred": "R&B",
+    "answers": [
+      "New jack swing"
+    ]
+  },
+  {
+    "id": 467,
+    "question": "which organizations were founded by Ellen G. White?",
+    "pred": "Seventh-day Adventist Church, Adventist Health, Adventist Education system, Adventist Development and Relief Agency (ADRA)",
+    "answers": [
+      "Avondale College"
+    ]
+  },
+  {
+    "id": 468,
+    "question": "What is the show Game of Thrones adapted from",
+    "pred": "A Song of Ice and Fire",
+    "answers": [
+      "A Song of Ice and Fire"
+    ]
+  },
+  {
+    "id": 469,
+    "question": "what is Peter Robinson's european nationality?",
+    "pred": "British",
+    "answers": [
+      "United Kingdom"
+    ]
+  },
+  {
+    "id": 470,
+    "question": "what type of film is From Dusk till Dawn?",
+    "pred": "Horror action",
+    "answers": [
+      "crime fiction"
+    ]
+  },
+  {
+    "id": 471,
+    "question": "what sex is James Twining",
+    "pred": "Male",
+    "answers": [
+      "male"
+    ]
+  },
+  {
+    "id": 472,
+    "question": "what kind of music is 21st Century Power Pop Riot",
+    "pred": "Power pop",
+    "answers": [
+      "pop punk"
+    ]
+  },
+  {
+    "id": 473,
+    "question": "who was a person that was born in Suffolk",
+    "pred": "Ed Sheeran",
+    "answers": [
+      "John Lydgate"
+    ]
+  },
+  {
+    "id": 474,
+    "question": "Which country was John Leigh born in",
+    "pred": "Sierra Leone",
+    "answers": [
+      "New Zealand"
+    ]
+  },
+  {
+    "id": 475,
+    "question": "What type of music does Paul Kendall create",
+    "pred": "Electronic music",
+    "answers": [
+      "electronic music"
+    ]
+  },
+  {
+    "id": 476,
+    "question": "What is Brendan Shanahan's profession?",
+    "pred": "Ice hockey executive and former player.",
+    "answers": [
+      "actor"
+    ]
+  },
+  {
+    "id": 477,
+    "question": "Name a deceased Chinese American businessman?",
+    "pred": "An Wang",
+    "answers": [
+      "Tom Y. Chan"
+    ]
+  },
+  {
+    "id": 478,
+    "question": "who is a German scientist",
+    "pred": "Albert Einstein",
+    "answers": [
+      "Engelbert Kaempfer"
+    ]
+  },
+  {
+    "id": 479,
+    "question": "what position does Joe Ferguson play in baseball?",
+    "pred": "Pitcher",
+    "answers": [
+      "outfielder"
+    ]
+  },
+  {
+    "id": 480,
+    "question": "what is an animation film?",
+    "pred": "A motion picture created using animation techniques to simulate movement through a sequence of images.",
+    "answers": [
+      "Hell-Bent for Election"
+    ]
+  },
+  {
+    "id": 481,
+    "question": "what celestial body does 4689 Donn orbit?",
+    "pred": "Sun",
+    "answers": [
+      "Sun"
+    ]
+  },
+  {
+    "id": 482,
+    "question": "what kind of music does Crime Mob make?",
+    "pred": "Crunk music",
+    "answers": [
+      "Southern hip hop"
+    ]
+  },
+  {
+    "id": 483,
+    "question": "What is the name of a short story?",
+    "pred": "Unknown.",
+    "answers": [
+      "The Purcell Papers"
+    ]
+  },
+  {
+    "id": 484,
+    "question": "What is a second level division of united states",
+    "pred": "County",
+    "answers": [
+      "Jefferson County"
+    ]
+  },
+  {
+    "id": 485,
+    "question": "What is the country of origin of the show The New Fred and Barney Show",
+    "pred": "United States",
+    "answers": [
+      "United States of America"
+    ]
+  },
+  {
+    "id": 486,
+    "question": "Who made the album Lennie Tristano",
+    "pred": "Lennie Tristano",
+    "answers": [
+      "Lennie Tristano"
+    ]
+  },
+  {
+    "id": 487,
+    "question": "What's a season from Australian Idol",
+    "pred": "Season 8",
+    "answers": [
+      "Australian Idol season 7"
+    ]
+  },
+  {
+    "id": 488,
+    "question": "what kind of music is on Revolution Per Minute",
+    "pred": "The music on Revolution Per Minute is typically punk rock and its subgenres.",
+    "answers": [
+      "alternative rock"
+    ]
+  },
+  {
+    "id": 489,
+    "question": "what is the film of that Richard Donner produced?",
+    "pred": "Superman",
+    "answers": [
+      "X-Men: Days of Future Past"
+    ]
+  },
+  {
+    "id": 490,
+    "question": "what kind of music is on the album Bakesale",
+    "pred": "Indie rock, lo-fi",
+    "answers": [
+      "indie rock"
+    ]
+  },
+  {
+    "id": 491,
+    "question": "who was the child of Nefertari",
+    "pred": "Amun-her-khepeshef",
+    "answers": [
+      "Nebettawy"
+    ]
+  },
+  {
+    "id": 492,
+    "question": "what is the gender of Salvatore Bruno?",
+    "pred": "Male",
+    "answers": [
+      "male"
+    ]
+  },
+  {
+    "id": 493,
+    "question": "what kind of music is Personal File?",
+    "pred": "Folk and country",
+    "answers": [
+      "country music"
+    ]
+  },
+  {
+    "id": 494,
+    "question": "What genre of book is John Halifax, Gentleman",
+    "pred": "Historical novel",
+    "answers": [
+      "biography"
+    ]
+  },
+  {
+    "id": 495,
+    "question": "Name a person born in California.",
+    "pred": "Leonardo DiCaprio",
+    "answers": [
+      "Rydah J. Klyde"
+    ]
+  },
+  {
+    "id": 496,
+    "question": "What genre is the film Dancing Lion?",
+    "pred": "Comedy",
+    "answers": [
+      "comedy-drama"
+    ]
+  },
+  {
+    "id": 497,
+    "question": "What profession does Lucy Russell have?",
+    "pred": "Actress.",
+    "answers": [
+      "actor"
+    ]
+  },
+  {
+    "id": 498,
+    "question": "what country was In the Mirror of Maya Deren released in",
+    "pred": "United States",
+    "answers": [
+      "Czech Republic"
+    ]
+  },
+  {
+    "id": 499,
+    "question": "What is an entity of 2011 Delhi bombing?",
+    "pred": "The Indian Mujahideen.",
+    "answers": [
+      "Indian Mujahideen"
+    ]
+  },
+  {
+    "id": 500,
+    "question": "What is the name of a rock music artist",
+    "pred": "The Beatles",
+    "answers": [
+      "Nicholas Megalis"
+    ]
+  },
+  {
+    "id": 501,
+    "question": "Name a bandleader",
+    "pred": "Duke Ellington",
+    "answers": [
+      "Jens Winther"
+    ]
+  },
+  {
+    "id": 502,
+    "question": "what netflix genre is Insomnia?",
+    "pred": "Thriller",
+    "answers": [
+      "Norwegian"
+    ]
+  },
+  {
+    "id": 503,
+    "question": "what kind of film is Thru the Moebius Strip",
+    "pred": "Animated science fiction",
+    "answers": [
+      "adventure film"
+    ]
+  },
+  {
+    "id": 504,
+    "question": "Name a gameplay mode in the game SOCOM: U.S. Navy SEALs Tactical Strike",
+    "pred": "Elimination",
+    "answers": [
+      "single-player video game"
+    ]
+  },
+  {
+    "id": 505,
+    "question": "What is Mario Moya's gender",
+    "pred": "Male",
+    "answers": [
+      "male"
+    ]
+  },
+  {
+    "id": 506,
+    "question": "what star in the milky way galaxy does  17909 Nikhilshukla orbit",
+    "pred": "The Sun",
+    "answers": [
+      "Sun"
+    ]
+  },
+  {
+    "id": 507,
+    "question": "what was the musician on the album Emociones",
+    "pred": "José José",
+    "answers": [
+      "Julio Iglesias"
+    ]
+  },
+  {
+    "id": 508,
+    "question": "who wrote the film Voyage of Time?",
+    "pred": "Terrence Malick",
+    "answers": [
+      "Terrence Malick"
+    ]
+  },
+  {
+    "id": 509,
+    "question": "what country is Yanina Zhejmo from",
+    "pred": "Russia",
+    "answers": [
+      "Soviet Union"
+    ]
+  },
+  {
+    "id": 510,
+    "question": "what crime fiction film was released in 1989",
+    "pred": "\"Sea of Love\"",
+    "answers": [
+      "Kill Me Again"
+    ]
+  },
+  {
+    "id": 511,
+    "question": "What does 11664 Kashiwagi orbit",
+    "pred": "11664 Kashiwagi is a main-belt asteroid.",
+    "answers": [
+      "Sun"
+    ]
+  },
+  {
+    "id": 512,
+    "question": "What is the nationality of Lambros Lambrou?",
+    "pred": "Cypriot",
+    "answers": [
+      "Cyprus"
+    ]
+  },
+  {
+    "id": 513,
+    "question": "what country did the film Ripped Off take place in",
+    "pred": "Italy",
+    "answers": [
+      "Italy"
+    ]
+  },
+  {
+    "id": 514,
+    "question": "what artist is a blues-rock?",
+    "pred": "Stevie Ray Vaughan",
+    "answers": [
+      "Kane Gang"
+    ]
+  },
+  {
+    "id": 515,
+    "question": "who is a famous Armenians novelist and playwright",
+    "pred": "William Saroyan",
+    "answers": [
+      "Eric Bogosian"
+    ]
+  },
+  {
+    "id": 516,
+    "question": "how would you describe Leeroy Thornhill's music",
+    "pred": "Electronic, big beat, breakbeat.",
+    "answers": [
+      "big beat"
+    ]
+  },
+  {
+    "id": 517,
+    "question": "who was involved in the cultural event Second Battle of Fort Wagner",
+    "pred": "54th Massachusetts Volunteer Infantry, Confederate garrison",
+    "answers": [
+      "Quincy Adams Gillmore"
+    ]
+  },
+  {
+    "id": 518,
+    "question": "what genre is Harlock Saga",
+    "pred": "Space opera",
+    "answers": [
+      "space opera"
+    ]
+  },
+  {
+    "id": 519,
+    "question": "what album was created by Red Flag (band)",
+    "pred": "Naïve Art",
+    "answers": [
+      "Armada Music"
+    ]
+  },
+  {
+    "id": 520,
+    "question": "Name a movie title in the drama genre",
+    "pred": "The Shawshank Redemption",
+    "answers": [
+      "John Q"
+    ]
+  },
+  {
+    "id": 521,
+    "question": "what was the reasoning behind Jack Kirk's death",
+    "pred": "The actor's death was due to natural causes.",
+    "answers": [
+      "myocardial infarction"
+    ]
+  },
+  {
+    "id": 522,
+    "question": "what time zone is Valley Springs in?",
+    "pred": "Pacific Time Zone (PT)",
+    "answers": [
+      "Central Time Zone"
+    ]
+  },
+  {
+    "id": 523,
+    "question": "which religion does Diana Mitford practice",
+    "pred": "Fascism (she was a follower of it, not a religion; she was raised Anglican but later embraced fascist ideology)",
+    "answers": [
+      "atheism"
+    ]
+  },
+  {
+    "id": 524,
+    "question": "what country is the film The Least Among You from",
+    "pred": "United States",
+    "answers": [
+      "United States of America"
+    ]
+  },
+  {
+    "id": 525,
+    "question": "what is Harrie Massey's nationality?",
+    "pred": "British",
+    "answers": [
+      "Australia"
+    ]
+  },
+  {
+    "id": 526,
+    "question": "Where did they discover 8970 Islandica?",
+    "pred": "The North Atlantic.",
+    "answers": [
+      "Palomar Observatory"
+    ]
+  },
+  {
+    "id": 527,
+    "question": "what is a country album?",
+    "pred": "A music album in the country genre, typically featuring songs with themes of rural life, love, and storytelling, often using instruments like guitars, fiddles, and banjos.",
+    "answers": [
+      "Unbelievable"
+    ]
+  },
+  {
+    "id": 528,
+    "question": "who is Virginia Lanier",
+    "pred": "American author known for the \"Bloodhound\" mystery series.",
+    "answers": [
+      "author"
+    ]
+  },
+  {
+    "id": 529,
+    "question": "Which position does Guy Chamberlin play",
+    "pred": "End",
+    "answers": [
+      "Tight end"
+    ]
+  },
+  {
+    "id": 530,
+    "question": "in what country did the film Shark Zone take place in",
+    "pred": "Australia",
+    "answers": [
+      "United States of America"
+    ]
+  },
+  {
+    "id": 531,
+    "question": "which film did John Ford directed",
+    "pred": "Stagecoach",
+    "answers": [
+      "Wild Women"
+    ]
+  },
+  {
+    "id": 532,
+    "question": "where in the solar system is (8228) 1996 YB2",
+    "pred": "Asteroid belt",
+    "answers": [
+      "asteroid belt"
+    ]
+  },
+  {
+    "id": 533,
+    "question": "around what main star does 5942 Denzilrobert move",
+    "pred": "The Sun",
+    "answers": [
+      "Sun"
+    ]
+  },
+  {
+    "id": 534,
+    "question": "where did Conel Hugh O'Donel Alexander take his last breath",
+    "pred": "Cambridge",
+    "answers": [
+      "Cheltenham"
+    ]
+  },
+  {
+    "id": 535,
+    "question": "what films have James Newton Howard participated in?",
+    "pred": "James Newton Howard has composed music for numerous films, including \"The Sixth Sense,\" \"The Dark Knight,\" \"The Hunger Games\" series, \"King Kong,\" \"Pretty Woman,\" \"The Fugitive,\" \"Signs,\" \"My Best Friend's Wedding,\" \"The Village,\" \"Michael Clayton,\" \"Fantastic Be",
+    "answers": [
+      "The Happening"
+    ]
+  },
+  {
+    "id": 536,
+    "question": "In what city was John Chanter born",
+    "pred": "I don't have information about John Chanter's birthplace.",
+    "answers": [
+      "Adelaide"
+    ]
+  },
+  {
+    "id": 537,
+    "question": "what time zone does Patton Village belong to",
+    "pred": "Central Time Zone (CT)",
+    "answers": [
+      "Central Time Zone"
+    ]
+  },
+  {
+    "id": 538,
+    "question": "what kind of music is on the album On a Mission?",
+    "pred": "Electronic dance music (EDM)",
+    "answers": [
+      "funk"
+    ]
+  },
+  {
+    "id": 539,
+    "question": "which position does Brian Dowling play in football",
+    "pred": "Goalkeeper",
+    "answers": [
+      "quarterback"
+    ]
+  },
+  {
+    "id": 540,
+    "question": "which movie is produced by Mark Burnett",
+    "pred": "The Bible",
+    "answers": [
+      "Son of God"
+    ]
+  },
+  {
+    "id": 541,
+    "question": "whats the name of a football goalkeeper",
+    "pred": "Goalkeeper",
+    "answers": [
+      "Marco Amelia"
+    ]
+  },
+  {
+    "id": 542,
+    "question": "which gameplay mode does the videogame Star Wars: Shadows of the Empire have",
+    "pred": "Single-player",
+    "answers": [
+      "single-player video game"
+    ]
+  },
+  {
+    "id": 543,
+    "question": "what kinds of movie is The Cassandra Crossing",
+    "pred": "Disaster thriller",
+    "answers": [
+      "action film"
+    ]
+  },
+  {
+    "id": 544,
+    "question": "What kind of music is the album this is england",
+    "pred": "Post-punk, indie rock",
+    "answers": [
+      "reggae"
+    ]
+  },
+  {
+    "id": 545,
+    "question": "Name someone who was born in Birmingham",
+    "pred": "Ozzy Osbourne",
+    "answers": [
+      "John Gunnell"
+    ]
+  },
+  {
+    "id": 546,
+    "question": "Where in california was Justin Gocke born",
+    "pred": "Los Angeles",
+    "answers": [
+      "Los Angeles County"
+    ]
+  },
+  {
+    "id": 547,
+    "question": "what is Jean Claude Eugène Péclet's country of nationality?",
+    "pred": "France",
+    "answers": [
+      "France"
+    ]
+  },
+  {
+    "id": 548,
+    "question": "Which country does Jack Williams claim nationality from?",
+    "pred": "United States.",
+    "answers": [
+      "United States of America"
+    ]
+  },
+  {
+    "id": 549,
+    "question": "where was Winston Chao born",
+    "pred": "Taipei, Taiwan",
+    "answers": [
+      "Taiwan"
+    ]
+  },
+  {
+    "id": 550,
+    "question": "who produced The Street of Forgotten Men?",
+    "pred": "Paramount Pictures",
+    "answers": [
+      "Adolph Zukor"
+    ]
+  },
+  {
+    "id": 551,
+    "question": "what genre is Lavender Castle",
+    "pred": "Children's adventure",
+    "answers": [
+      "adventure film"
+    ]
+  },
+  {
+    "id": 552,
+    "question": "what country released Friendly Fire",
+    "pred": "Canada",
+    "answers": [
+      "Hong Kong"
+    ]
+  },
+  {
+    "id": 553,
+    "question": "Name a parody film.",
+    "pred": "Spaceballs",
+    "answers": [
+      "Terminal USA"
+    ]
+  },
+  {
+    "id": 554,
+    "question": "Who is a child of George Gilbert Scott",
+    "pred": "George Gilbert Scott Jr.",
+    "answers": [
+      "George Gilbert Scott"
+    ]
+  },
+  {
+    "id": 555,
+    "question": "where did the show All About Eve orginate from",
+    "pred": "A 1946 short story by Mary Orr titled \"The Wisdom of Eve.\"",
+    "answers": [
+      "Philippines"
+    ]
+  },
+  {
+    "id": 556,
+    "question": "what music genre is Grooverider",
+    "pred": "Drum and bass",
+    "answers": [
+      "electronica"
+    ]
+  },
+  {
+    "id": 557,
+    "question": "What tv program is an example of telethon?",
+    "pred": "The Jerry Lewis MDA Telethon",
+    "answers": [
+      "MDA Show of Strength"
+    ]
+  },
+  {
+    "id": 558,
+    "question": "What kind of rock does Sportfreunde Stiller write",
+    "pred": "Limestone",
+    "answers": [
+      "indie rock"
+    ]
+  },
+  {
+    "id": 559,
+    "question": "What kingdom was involved in the Battle of Ganghwa",
+    "pred": "Joseon",
+    "answers": [
+      "Joseon"
+    ]
+  },
+  {
+    "id": 560,
+    "question": "whats Chang Apana's ethnicity",
+    "pred": "Chinese",
+    "answers": [
+      "Chinese American"
+    ]
+  },
+  {
+    "id": 561,
+    "question": "who was born in Munich",
+    "pred": "Ludwig II of Bavaria.",
+    "answers": [
+      "Maria Lund"
+    ]
+  },
+  {
+    "id": 562,
+    "question": "which netherlands city was Andries Bicker born in?",
+    "pred": "Amsterdam",
+    "answers": [
+      "Amsterdam"
+    ]
+  },
+  {
+    "id": 563,
+    "question": "which production company worked on the film The Secret Life of Walter Mitty",
+    "pred": "20th Century Fox",
+    "answers": [
+      "Warner Bros."
+    ]
+  },
+  {
+    "id": 564,
+    "question": "What's the language used in Kurosawa's Way",
+    "pred": "Japanese",
+    "answers": [
+      "Korean"
+    ]
+  },
+  {
+    "id": 565,
+    "question": "What language is the film Baise-moi in?",
+    "pred": "French",
+    "answers": [
+      "French"
+    ]
+  },
+  {
+    "id": 566,
+    "question": "Who wrote the mayor of castro street",
+    "pred": "Randy Shilts",
+    "answers": [
+      "Randy Shilts"
+    ]
+  },
+  {
+    "id": 567,
+    "question": "What is Brett Lee's gender",
+    "pred": "Male",
+    "answers": [
+      "male"
+    ]
+  },
+  {
+    "id": 568,
+    "question": "what kind of book is Diary",
+    "pred": "A personal journal or memoir",
+    "answers": [
+      "horror film"
+    ]
+  },
+  {
+    "id": 569,
+    "question": "what language is featured in Port of Call",
+    "pred": "Cantonese",
+    "answers": [
+      "German"
+    ]
+  },
+  {
+    "id": 570,
+    "question": "What position does footballer Ian Porterfield play?",
+    "pred": "Midfielder",
+    "answers": [
+      "forward"
+    ]
+  },
+  {
+    "id": 571,
+    "question": "What kind of movie is rin tin tin: The Test?",
+    "pred": "Adventure",
+    "answers": [
+      "children's film"
+    ]
+  },
+  {
+    "id": 572,
+    "question": "where was djoumin sangaré born",
+    "pred": "Bamako, Mali",
+    "answers": [
+      "Dunkirk"
+    ]
+  },
+  {
+    "id": 573,
+    "question": "who is an artist that performs glam metal",
+    "pred": "Motley Crue",
+    "answers": [
+      "Pantera"
+    ]
+  },
+  {
+    "id": 574,
+    "question": "what is a film written by Daddy Day Camp",
+    "pred": "No such film exists.",
+    "answers": [
+      "David N. Weiss"
+    ]
+  },
+  {
+    "id": 575,
+    "question": "what type of music does Calm Before the Storm play",
+    "pred": "Metal",
+    "answers": [
+      "pop rock"
+    ]
+  },
+  {
+    "id": 576,
+    "question": "what movie is classified as a foreign film",
+    "pred": "A film produced outside the country where it is being viewed.",
+    "answers": [
+      "Tampopo"
+    ]
+  },
+  {
+    "id": 577,
+    "question": "which orbit has relationship with (18528) 1996 VX30",
+    "pred": "(18528) 1996 VX30 is a trans-Neptunian object in the Kuiper belt.",
+    "answers": [
+      "Sun"
+    ]
+  },
+  {
+    "id": 578,
+    "question": "Who was born in Motherwell?",
+    "pred": "David Tennant.",
+    "answers": [
+      "Scott Leitch"
+    ]
+  },
+  {
+    "id": 579,
+    "question": "what football position does Dorin Dickerson play at?",
+    "pred": "Wide receiver",
+    "answers": [
+      "wide receiver"
+    ]
+  },
+  {
+    "id": 580,
+    "question": "what language is spoken in The Art of Seduction",
+    "pred": "English",
+    "answers": [
+      "Korean"
+    ]
+  },
+  {
+    "id": 581,
+    "question": "what type of film is Name of the Rose",
+    "pred": "Historical mystery",
+    "answers": [
+      "thriller"
+    ]
+  },
+  {
+    "id": 582,
+    "question": "what is Inky Mark's gender",
+    "pred": "Male",
+    "answers": [
+      "male"
+    ]
+  },
+  {
+    "id": 583,
+    "question": "what label is Steve Lambke signed with",
+    "pred": "You've Run",
+    "answers": [
+      "Outside Music"
+    ]
+  },
+  {
+    "id": 584,
+    "question": "what kind of music does Shabba Ranks make",
+    "pred": "Dancehall reggae",
+    "answers": [
+      "ragga"
+    ]
+  },
+  {
+    "id": 585,
+    "question": "Name a live album by Chicago.",
+    "pred": "Chicago at Carnegie Hall",
+    "answers": [
+      "Chicago XXVI: Live in Concert"
+    ]
+  },
+  {
+    "id": 586,
+    "question": "what is a type of musical film?",
+    "pred": "Musical comedy",
+    "answers": [
+      "Shinbone Alley"
+    ]
+  },
+  {
+    "id": 587,
+    "question": "what kind of show is All In?",
+    "pred": "A reality competition series.",
+    "answers": [
+      "Korean drama"
+    ]
+  },
+  {
+    "id": 588,
+    "question": "where is Lon Chaney, sr. buried",
+    "pred": "Forest Lawn Memorial Park, Glendale, California",
+    "answers": [
+      "California"
+    ]
+  },
+  {
+    "id": 589,
+    "question": "what type of music does the album Imagination belong to?",
+    "pred": "Electronic",
+    "answers": [
+      "pop music"
+    ]
+  },
+  {
+    "id": 590,
+    "question": "What is the name of a film that was created by Buster Keaton",
+    "pred": "The General",
+    "answers": [
+      "Battling Butler"
+    ]
+  },
+  {
+    "id": 591,
+    "question": "which netflix independent movies stars mandy moore?",
+    "pred": "The Princess Diaries",
+    "answers": [
+      "Dedication"
+    ]
+  },
+  {
+    "id": 592,
+    "question": "what is May Lo mei-mei's nationality",
+    "pred": "Chinese",
+    "answers": [
+      "Hong Kong"
+    ]
+  },
+  {
+    "id": 593,
+    "question": "Where did James Foster pass away?",
+    "pred": "London, England.",
+    "answers": [
+      "Jacksonville"
+    ]
+  },
+  {
+    "id": 594,
+    "question": "who is the discovery organization that discovered 12343 Martinbeech?",
+    "pred": "The Spacewatch program.",
+    "answers": [
+      "Spacewatch"
+    ]
+  },
+  {
+    "id": 595,
+    "question": "Who is a female White American?",
+    "pred": "A White American woman.",
+    "answers": [
+      "Jessica Simpson"
+    ]
+  },
+  {
+    "id": 596,
+    "question": "what football position does Jake McDonough play",
+    "pred": "Defensive end",
+    "answers": [
+      "Defensive end"
+    ]
+  },
+  {
+    "id": 597,
+    "question": "What is the ethnicity of Rasheed Amjad?",
+    "pred": "Pakistani",
+    "answers": [
+      "Kashmiri people"
+    ]
+  },
+  {
+    "id": 598,
+    "question": "who wrote To the Devil a Daughter",
+    "pred": "Dennis Wheatley",
+    "answers": [
+      "Dennis Wheatley"
+    ]
+  },
+  {
+    "id": 599,
+    "question": "in what time zone is Costa Smeralda",
+    "pred": "Central European Time (CET)",
+    "answers": [
+      "Central European Time"
+    ]
+  },
+  {
+    "id": 600,
+    "question": "What genre of music is Public Image Ltd?",
+    "pred": "Post-punk",
+    "answers": [
+      "experimental music"
+    ]
+  },
+  {
+    "id": 601,
+    "question": "what time zone is Roletto in",
+    "pred": "I don't have information about Roletto's time zone.",
+    "answers": [
+      "Central European Time"
+    ]
+  },
+  {
+    "id": 602,
+    "question": "what position did baseball player Dick Hahn play",
+    "pred": "Pitcher",
+    "answers": [
+      "catcher"
+    ]
+  },
+  {
+    "id": 603,
+    "question": "what is an example of a fantasy book",
+    "pred": "The Hobbit",
+    "answers": [
+      "The Year's Best Fantasy Stories: 3"
+    ]
+  },
+  {
+    "id": 604,
+    "question": "who was born in Greenock",
+    "pred": "James Watt",
+    "answers": [
+      "Owen Archdeacon"
+    ]
+  },
+  {
+    "id": 605,
+    "question": "who's an artist that produces mainly hip hop music",
+    "pred": "Drake",
+    "answers": [
+      "Robert Glasper"
+    ]
+  },
+  {
+    "id": 606,
+    "question": "What killed Jack Mullaney",
+    "pred": "Suicide",
+    "answers": [
+      "stroke"
+    ]
+  },
+  {
+    "id": 607,
+    "question": "What genre is the tv program The Kingdom of The Winds",
+    "pred": "Historical drama",
+    "answers": [
+      "Korean drama"
+    ]
+  },
+  {
+    "id": 608,
+    "question": "Who was involved in the Napoleonic Wars?",
+    "pred": "France and various European coalitions, including Britain, Austria, Prussia, Russia, and others.",
+    "answers": [
+      "Józef Poniatowski"
+    ]
+  },
+  {
+    "id": 609,
+    "question": "what is Frank Hafner's gender?",
+    "pred": "Male",
+    "answers": [
+      "male"
+    ]
+  },
+  {
+    "id": 610,
+    "question": "where was Ayumi Shibata born",
+    "pred": "Japan",
+    "answers": [
+      "Kanagawa Prefecture"
+    ]
+  },
+  {
+    "id": 611,
+    "question": "who is John Landis's song's name",
+    "pred": "John Landis is a film director, not a musician, so he doesn't have songs.",
+    "answers": [
+      "Max Landis"
+    ]
+  },
+  {
+    "id": 612,
+    "question": "What kind of music is Join the Band?",
+    "pred": "Folk rock",
+    "answers": [
+      "rock music"
+    ]
+  },
+  {
+    "id": 613,
+    "question": "who is Seepersad Naipaul's child",
+    "pred": "V. S. Naipaul",
+    "answers": [
+      "V. S. Naipaul"
+    ]
+  },
+  {
+    "id": 614,
+    "question": "what kind of music does Pete Briggs play",
+    "pred": "Pete Briggs is known for playing jazz, particularly as a double bassist.",
+    "answers": [
+      "jazz"
+    ]
+  },
+  {
+    "id": 615,
+    "question": "Name someone who was killed by hodgkin lymphoma",
+    "pred": "Robin Gibb",
+    "answers": [
+      "Roger Maris"
+    ]
+  },
+  {
+    "id": 616,
+    "question": "What genre is the band East India Youth?",
+    "pred": "Electronic",
+    "answers": [
+      "experimental music"
+    ]
+  },
+  {
+    "id": 617,
+    "question": "what kind of book is Night",
+    "pred": "Memoir",
+    "answers": [
+      "novel"
+    ]
+  },
+  {
+    "id": 618,
+    "question": "which country is Derby Line in",
+    "pred": "United States",
+    "answers": [
+      "Orleans County"
+    ]
+  },
+  {
+    "id": 619,
+    "question": "What does 12326 Shirasaki orbit?",
+    "pred": "The Sun",
+    "answers": [
+      "Sun"
+    ]
+  },
+  {
+    "id": 620,
+    "question": "Who is the producer for Higher Learning",
+    "pred": "Laurence Mark",
+    "answers": [
+      "John Singleton"
+    ]
+  },
+  {
+    "id": 621,
+    "question": "what company is Olga Tañón under?",
+    "pred": "Sony Music Latin",
+    "answers": [
+      "Warner Music Group"
+    ]
+  },
+  {
+    "id": 622,
+    "question": "what game is single-player?",
+    "pred": "Chess.",
+    "answers": [
+      "The Settlers II"
+    ]
+  },
+  {
+    "id": 623,
+    "question": "who did the music for the film La Chinoise",
+    "pred": "Jean-Luc Godard",
+    "answers": [
+      "Antonio Vivaldi"
+    ]
+  },
+  {
+    "id": 624,
+    "question": "what is Jan Garbarek's ethnicity",
+    "pred": "Norwegian",
+    "answers": [
+      "Norwegians"
+    ]
+  },
+  {
+    "id": 625,
+    "question": "whats the name of a professional botanist",
+    "pred": "Botanist",
+    "answers": [
+      "William Phillips"
+    ]
+  },
+  {
+    "id": 626,
+    "question": "which modes does ATV Offroad Fury 3 have",
+    "pred": "Single Player, Multiplayer, Career, and Free Ride",
+    "answers": [
+      "single-player video game"
+    ]
+  },
+  {
+    "id": 627,
+    "question": "what gender does James Burke identify as?",
+    "pred": "Male",
+    "answers": [
+      "male"
+    ]
+  },
+  {
+    "id": 628,
+    "question": "Mariana Mantovana is in what time zone",
+    "pred": "UTC+1 (CET)",
+    "answers": [
+      "Central European Time"
+    ]
+  },
+  {
+    "id": 629,
+    "question": "what is the title of the work written by Leigh Brackett",
+    "pred": "The Long Tomorrow",
+    "answers": [
+      "Shadow Over Mars"
+    ]
+  },
+  {
+    "id": 630,
+    "question": "The album Immortal is included in what genre",
+    "pred": "Death metal",
+    "answers": [
+      "heavy metal music"
+    ]
+  },
+  {
+    "id": 631,
+    "question": "What type of music does Sug produce?",
+    "pred": "Hip-hop",
+    "answers": [
+      "alternative rock"
+    ]
+  },
+  {
+    "id": 632,
+    "question": "which artist released the album Secret",
+    "pred": "Ayumi Hamasaki",
+    "answers": [
+      "Kumi Koda"
+    ]
+  },
+  {
+    "id": 633,
+    "question": "Joe Firmage founded what organization?",
+    "pred": "US Web/CKS",
+    "answers": [
+      "USWeb"
+    ]
+  },
+  {
+    "id": 634,
+    "question": "What is Lennox Robinson 's gender?",
+    "pred": "Male",
+    "answers": [
+      "male"
+    ]
+  },
+  {
+    "id": 635,
+    "question": "whats an example of an artist who performs contemporary classical music",
+    "pred": "John Adams",
+    "answers": [
+      "Andrea Ferrante"
+    ]
+  },
+  {
+    "id": 636,
+    "question": "who recorded Thunderstorms and Neon Signs",
+    "pred": "Wayne Hancock",
+    "answers": [
+      "Wayne Hancock"
+    ]
+  },
+  {
+    "id": 637,
+    "question": "What type of music does Devlin belong in?",
+    "pred": "Grime",
+    "answers": [
+      "bluegrass music"
+    ]
+  },
+  {
+    "id": 638,
+    "question": "Name an electronic music artist",
+    "pred": "Daft Punk",
+    "answers": [
+      "Paul Kalkbrenner"
+    ]
+  },
+  {
+    "id": 639,
+    "question": "What is the location where Jan Retèl died?",
+    "pred": "Amsterdam",
+    "answers": [
+      "Bussum"
+    ]
+  },
+  {
+    "id": 640,
+    "question": "what type of video game is Mario Party 4",
+    "pred": "Party",
+    "answers": [
+      "party game"
+    ]
+  },
+  {
+    "id": 641,
+    "question": "who created Ghaur",
+    "pred": "Muhammad of Ghor",
+    "answers": [
+      "Sal Buscema"
+    ]
+  },
+  {
+    "id": 642,
+    "question": "where was Hannah Jane Fox originally from",
+    "pred": "London, England",
+    "answers": [
+      "England"
+    ]
+  },
+  {
+    "id": 643,
+    "question": "what does Matt Gallant do for a living",
+    "pred": "He is a co-founder and CEO of BiOptimizers, a health supplement company.",
+    "answers": [
+      "actor"
+    ]
+  },
+  {
+    "id": 644,
+    "question": "what is a Hong Kong genre film in netflix?",
+    "pred": "Hong Kong action, crime, or martial arts films.",
+    "answers": [
+      "UNDEFINED_LABEL"
+    ]
+  },
+  {
+    "id": 645,
+    "question": "What's an example of a drama film",
+    "pred": "The Godfather",
+    "answers": [
+      "Marjuča ili smrt"
+    ]
+  },
+  {
+    "id": 646,
+    "question": "who was born in Tumut?",
+    "pred": "Russell Crowe",
+    "answers": [
+      "Bobby Banks"
+    ]
+  },
+  {
+    "id": 647,
+    "question": "what type of genre is  All Creatures Great and Small",
+    "pred": "Drama",
+    "answers": [
+      "comedy-drama"
+    ]
+  },
+  {
+    "id": 648,
+    "question": "which country did the Battle of Maravar Pass take place",
+    "pred": "India",
+    "answers": [
+      "Soviet Union"
+    ]
+  },
+  {
+    "id": 649,
+    "question": "Who was Douglas Engelbart influenced by?",
+    "pred": "Vannevar Bush",
+    "answers": [
+      "Alfred Korzybski"
+    ]
+  },
+  {
+    "id": 650,
+    "question": "what war did James V. Hartinger participate in?",
+    "pred": "World War II",
+    "answers": [
+      "World War II"
+    ]
+  },
+  {
+    "id": 651,
+    "question": "What genre of music is the album New Moon?",
+    "pred": "Indie folk",
+    "answers": [
+      "lo-fi music"
+    ]
+  },
+  {
+    "id": 652,
+    "question": "What position does Bert Haas play in baseball",
+    "pred": "First baseman",
+    "answers": [
+      "first baseman"
+    ]
+  },
+  {
+    "id": 653,
+    "question": "Dennis Hale recorded under what music label",
+    "pred": "Motown",
+    "answers": [
+      "Parlophone Records"
+    ]
+  },
+  {
+    "id": 654,
+    "question": "what city was Michael Rothenstein born in",
+    "pred": "London",
+    "answers": [
+      "London"
+    ]
+  },
+  {
+    "id": 655,
+    "question": "what novelist was born in Chicago?",
+    "pred": "Ernest Hemingway",
+    "answers": [
+      "William P. McGivern"
+    ]
+  },
+  {
+    "id": 656,
+    "question": "what television genre is Video Warrior Laserion?",
+    "pred": "Mecha anime",
+    "answers": [
+      "anime"
+    ]
+  },
+  {
+    "id": 657,
+    "question": "What is the ethnicity of Madelyn Dunham",
+    "pred": "White",
+    "answers": [
+      "English American"
+    ]
+  },
+  {
+    "id": 658,
+    "question": "Who is a famous african american",
+    "pred": "Martin Luther King Jr.",
+    "answers": [
+      "Dwight York"
+    ]
+  },
+  {
+    "id": 659,
+    "question": "What orbits the Sun?",
+    "pred": "Planets, asteroids, comets, and other celestial bodies.",
+    "answers": [
+      "7210 Darius"
+    ]
+  },
+  {
+    "id": 660,
+    "question": "which country was Sandipan Chattopadhyay born in",
+    "pred": "India",
+    "answers": [
+      "India"
+    ]
+  },
+  {
+    "id": 661,
+    "question": "Who is the artist that wrote the 7 Weeks: Live in America 2003 album",
+    "pred": "Flogging Molly",
+    "answers": [
+      "Stryper"
+    ]
+  },
+  {
+    "id": 662,
+    "question": "What kind of film is To Die For",
+    "pred": "Dark comedy",
+    "answers": [
+      "independent film"
+    ]
+  },
+  {
+    "id": 663,
+    "question": "What instrumentalist uses a drum kit?",
+    "pred": "Drummer",
+    "answers": [
+      "Donny Baldwin"
+    ]
+  },
+  {
+    "id": 664,
+    "question": "Who wrote the soundtrack for Welcome Home?",
+    "pred": "Brian Tyler",
+    "answers": [
+      "Henry Mancini"
+    ]
+  },
+  {
+    "id": 665,
+    "question": "What is the nationality of someone from Dorville?",
+    "pred": "There is no known place called Dorville, so I cannot determine a nationality.",
+    "answers": [
+      "France"
+    ]
+  },
+  {
+    "id": 666,
+    "question": "Name a Latin American music album.",
+    "pred": "\"Buena Vista Social Club\"",
+    "answers": [
+      "Depende"
+    ]
+  },
+  {
+    "id": 667,
+    "question": "Who is a Ukrainian football midfielder?",
+    "pred": "Andriy Yarmolenko",
+    "answers": [
+      "Dmytro Zozulya"
+    ]
+  },
+  {
+    "id": 668,
+    "question": "Where is Claus Bjørn Larsen from",
+    "pred": "Denmark",
+    "answers": [
+      "Denmark"
+    ]
+  },
+  {
+    "id": 669,
+    "question": "where was Paul Shipton born",
+    "pred": "Leeds, England",
+    "answers": [
+      "Manchester"
+    ]
+  },
+  {
+    "id": 670,
+    "question": "Who wrote the script for Gaslight",
+    "pred": "John Van Druten, Walter Reisch, and John L. Balderston",
+    "answers": [
+      "Patrick Hamilton"
+    ]
+  },
+  {
+    "id": 671,
+    "question": "Name a person who was born in Anyang.",
+    "pred": "Yao Ming",
+    "answers": [
+      "Zhang Huan"
+    ]
+  },
+  {
+    "id": 672,
+    "question": "what sex is Ole Hallesby",
+    "pred": "Male",
+    "answers": [
+      "male"
+    ]
+  },
+  {
+    "id": 673,
+    "question": "What is the genre of the film santa",
+    "pred": "Family, Comedy, Fantasy",
+    "answers": [
+      "drama film"
+    ]
+  },
+  {
+    "id": 674,
+    "question": "What is the country of origin for the tv program The Adventures of Sinbad?",
+    "pred": "Canada",
+    "answers": [
+      "Canada"
+    ]
+  },
+  {
+    "id": 675,
+    "question": "is Bloodline fiction or non-fiction",
+    "pred": "Fiction",
+    "answers": [
+      "fiction"
+    ]
+  },
+  {
+    "id": 676,
+    "question": "Where was John Hainkel born?",
+    "pred": "New Orleans, Louisiana",
+    "answers": [
+      "New Orleans"
+    ]
+  },
+  {
+    "id": 677,
+    "question": "what type of religious practice doe Maharishi Mahesh Yogi have",
+    "pred": "Transcendental Meditation",
+    "answers": [
+      "Rāja yoga"
+    ]
+  },
+  {
+    "id": 678,
+    "question": "Who is a child of Thomas Chittenden",
+    "pred": "Ethan Allen Chittenden",
+    "answers": [
+      "Martin Chittenden"
+    ]
+  },
+  {
+    "id": 679,
+    "question": "What is the genre of the album Opti buk?",
+    "pred": "Pop",
+    "answers": [
+      "electronic dance music"
+    ]
+  },
+  {
+    "id": 680,
+    "question": "Who wrote The Turkish Passion?",
+    "pred": "Antonio Gala",
+    "answers": [
+      "Vicente Aranda"
+    ]
+  },
+  {
+    "id": 681,
+    "question": "what kind of music does DJ Heavygrinder make?",
+    "pred": "Electronic dance music (EDM), primarily hardstyle and hardcore.",
+    "answers": [
+      "dubstep"
+    ]
+  },
+  {
+    "id": 682,
+    "question": "what is the title of a tv crime fiction?",
+    "pred": "\"Sherlock\"",
+    "answers": [
+      "Top Boy"
+    ]
+  },
+  {
+    "id": 683,
+    "question": "what film did Joe Carnahan write",
+    "pred": "Narc",
+    "answers": [
+      "Blood, Guts, Bullets and Octane"
+    ]
+  },
+  {
+    "id": 684,
+    "question": "who wrote the story behind The Razor's Edge film",
+    "pred": "W. Somerset Maugham",
+    "answers": [
+      "William Somerset Maugham"
+    ]
+  },
+  {
+    "id": 685,
+    "question": "in what language was Scarlett filmed",
+    "pred": "English",
+    "answers": [
+      "English"
+    ]
+  },
+  {
+    "id": 686,
+    "question": "What's an example of a war film",
+    "pred": "Saving Private Ryan",
+    "answers": [
+      "First to Fight"
+    ]
+  },
+  {
+    "id": 687,
+    "question": "What nationality is Juliette Haigh?",
+    "pred": "New Zealand",
+    "answers": [
+      "New Zealand"
+    ]
+  },
+  {
+    "id": 688,
+    "question": "who was Lethal Weapon edited by",
+    "pred": "Stuart Baird",
+    "answers": [
+      "Stuart Baird"
+    ]
+  },
+  {
+    "id": 689,
+    "question": "who has Jerzy Neyman influenced?",
+    "pred": "Jerzy Neyman influenced statisticians such as Egon Pearson, Abraham Wald, and David Blackwell, and his work shaped modern hypothesis testing, confidence intervals, and decision theory.",
+    "answers": [
+      "Abraham Wald"
+    ]
+  },
+  {
+    "id": 690,
+    "question": "is Asia Cruise male or female",
+    "pred": "Female",
+    "answers": [
+      "female"
+    ]
+  },
+  {
+    "id": 691,
+    "question": "what type of music is perform by Winter Equinox",
+    "pred": "Ambient, atmospheric black metal",
+    "answers": [
+      "post-rock"
+    ]
+  },
+  {
+    "id": 692,
+    "question": "which european nation is The Fit of Passion filmed in?",
+    "pred": "France",
+    "answers": [
+      "Russia"
+    ]
+  },
+  {
+    "id": 693,
+    "question": "what is the film that was produced by Jerry Weintraub?",
+    "pred": "Ocean's Eleven",
+    "answers": [
+      "My Stepmother Is an Alien"
+    ]
+  },
+  {
+    "id": 694,
+    "question": "where is Nathan Apea Aferi from",
+    "pred": "Ghana",
+    "answers": [
+      "Ghana"
+    ]
+  },
+  {
+    "id": 695,
+    "question": "What is an artist who makes pop music?",
+    "pred": "A pop musician or pop singer.",
+    "answers": [
+      "The Equals"
+    ]
+  },
+  {
+    "id": 696,
+    "question": "what language was used for the golden fortress",
+    "pred": "Hindi",
+    "answers": [
+      "Bengali"
+    ]
+  },
+  {
+    "id": 697,
+    "question": "who is a midfielder?",
+    "pred": "A player positioned in the central area of the field, responsible for linking defense and attack.",
+    "answers": [
+      "Tu Chu-hsien"
+    ]
+  },
+  {
+    "id": 698,
+    "question": "what type of architecture is the first universalist chruch?",
+    "pred": "Gothic Revival",
+    "answers": [
+      "Greek Revival architecture"
+    ]
+  },
+  {
+    "id": 699,
+    "question": "which area does KMKY broadcast to",
+    "pred": "The San Francisco Bay Area",
+    "answers": [
+      "San Francisco Bay Area"
+    ]
+  },
+  {
+    "id": 700,
+    "question": "is Stefán Logi Magnússon male or female",
+    "pred": "Male",
+    "answers": [
+      "male"
+    ]
+  },
+  {
+    "id": 701,
+    "question": "who edited Touch of Pink",
+    "pred": "Ian Iqbal Rashid",
+    "answers": [
+      "Susan Maggi"
+    ]
+  },
+  {
+    "id": 702,
+    "question": "What is a namesake of Richard Stockton (1730-1781)?",
+    "pred": "Richard Stockton (U.S. Representative)",
+    "answers": [
+      "Richard Stockton College of New Jersey"
+    ]
+  },
+  {
+    "id": 703,
+    "question": "what language was Kamikaze 1989 filmed in",
+    "pred": "German",
+    "answers": [
+      "German"
+    ]
+  },
+  {
+    "id": 704,
+    "question": "Where was Bob Kane buried?",
+    "pred": "Forest Lawn Memorial Park, Hollywood Hills, Los Angeles, California.",
+    "answers": [
+      "Forest Lawn Memorial Park"
+    ]
+  },
+  {
+    "id": 705,
+    "question": "Which label is somevelvetsidewalk signed to",
+    "pred": "Sub Pop",
+    "answers": [
+      "K Records"
+    ]
+  },
+  {
+    "id": 706,
+    "question": "what is discussed in the show Market Wrap",
+    "pred": "Daily financial market updates, stock performance, economic trends, and investment insights.",
+    "answers": [
+      "business enterprise"
+    ]
+  },
+  {
+    "id": 707,
+    "question": "Name a progressive rock album",
+    "pred": "The Dark Side of the Moon",
+    "answers": [
+      "Waterfall"
+    ]
+  },
+  {
+    "id": 708,
+    "question": "What is the language of Gag 100kaibun Aishite Kudasai?",
+    "pred": "Japanese",
+    "answers": [
+      "Japanese"
+    ]
+  },
+  {
+    "id": 709,
+    "question": "What netflix genre does The Forest belong to",
+    "pred": "Horror",
+    "answers": [
+      "horror film"
+    ]
+  },
+  {
+    "id": 710,
+    "question": "What artist released Seed of Memory?",
+    "pred": "Terry Reid",
+    "answers": [
+      "Terry Reid"
+    ]
+  },
+  {
+    "id": 711,
+    "question": "Which nation is Martha Mattox from?",
+    "pred": "United States",
+    "answers": [
+      "United States of America"
+    ]
+  },
+  {
+    "id": 712,
+    "question": "what kind of film is  News from Home",
+    "pred": "Documentary",
+    "answers": [
+      "drama film"
+    ]
+  },
+  {
+    "id": 713,
+    "question": "Which film did Larry Adler help with?",
+    "pred": "Genevieve",
+    "answers": [
+      "A High Wind in Jamaica"
+    ]
+  },
+  {
+    "id": 714,
+    "question": "What is an example of a fiction book?",
+    "pred": "\"To Kill a Mockingbird\"",
+    "answers": [
+      "Memnoch the Devil"
+    ]
+  },
+  {
+    "id": 715,
+    "question": "which religion is Charles Lenormant",
+    "pred": "Catholicism",
+    "answers": [
+      "Catholicism"
+    ]
+  },
+  {
+    "id": 716,
+    "question": "Name a thriller film.",
+    "pred": "The Silence of the Lambs",
+    "answers": [
+      "Devil's Pass"
+    ]
+  },
+  {
+    "id": 717,
+    "question": "What video game did Codemasters release?",
+    "pred": "Multiple.",
+    "answers": [
+      "Grid 2"
+    ]
+  },
+  {
+    "id": 718,
+    "question": "who is son of Sima Yi",
+    "pred": "Sima Shi and Sima Zhao",
+    "answers": [
+      "Sima Zhao"
+    ]
+  },
+  {
+    "id": 719,
+    "question": "what type of rock album is Dirk Wears White Sox classified as",
+    "pred": "Post-punk",
+    "answers": [
+      "Deathrock"
+    ]
+  },
+  {
+    "id": 720,
+    "question": "What got its name from Hakaru Hashimoto",
+    "pred": "Hashimoto's thyroiditis",
+    "answers": [
+      "Hashimoto's thyroiditis"
+    ]
+  },
+  {
+    "id": 721,
+    "question": "what instrument is played by Gavin Rossdale",
+    "pred": "Guitar",
+    "answers": [
+      "guitar"
+    ]
+  },
+  {
+    "id": 722,
+    "question": "What is the name of a teen pop album",
+    "pred": "Teenage Dream",
+    "answers": [
+      "Genuine"
+    ]
+  },
+  {
+    "id": 723,
+    "question": "Who is a person born in Manhattan",
+    "pred": "There are many; one example is Theodore Roosevelt.",
+    "answers": [
+      "Harold I. Cammer"
+    ]
+  },
+  {
+    "id": 724,
+    "question": "what language is le bal du gouverneur in",
+    "pred": "French",
+    "answers": [
+      "French"
+    ]
+  },
+  {
+    "id": 725,
+    "question": "where was Crying Freeman done",
+    "pred": "Japan",
+    "answers": [
+      "United States of America"
+    ]
+  },
+  {
+    "id": 726,
+    "question": "what is the religion that Adam Stern follows",
+    "pred": "I don't have information about Adam Stern's personal religious beliefs.",
+    "answers": [
+      "Judaism"
+    ]
+  },
+  {
+    "id": 727,
+    "question": "Name a thriller (genre) film from the 2000's",
+    "pred": "The Bourne Identity",
+    "answers": [
+      "WiseGirls"
+    ]
+  },
+  {
+    "id": 728,
+    "question": "Which time zone is Villabate apart of?",
+    "pred": "UTC+1 (CET)",
+    "answers": [
+      "Central European Time"
+    ]
+  },
+  {
+    "id": 729,
+    "question": "what kind of music does Suzana Petričević make?",
+    "pred": "I don't have information about Suzana Petričević's music.",
+    "answers": [
+      "pop rock"
+    ]
+  },
+  {
+    "id": 730,
+    "question": "Who is an artist know for doing Industrial rock?",
+    "pred": "Nine Inch Nails",
+    "answers": [
+      "Nivek Ogre"
+    ]
+  },
+  {
+    "id": 731,
+    "question": "who is the child of Ahinoam",
+    "pred": "Amnon",
+    "answers": [
+      "Abinadab ben Saul"
+    ]
+  },
+  {
+    "id": 732,
+    "question": "Which language is the song Some Boys! Touch in",
+    "pred": "English",
+    "answers": [
+      "Japanese"
+    ]
+  },
+  {
+    "id": 733,
+    "question": "what category of film is Something for the Boys",
+    "pred": "Musical",
+    "answers": [
+      "musical film"
+    ]
+  },
+  {
+    "id": 734,
+    "question": "Who is a professional relief pitcher?",
+    "pred": "A baseball player specializing in pitching after the starting pitcher is replaced.",
+    "answers": [
+      "Jack Taschner"
+    ]
+  },
+  {
+    "id": 735,
+    "question": "What language is Natutulog Pa Ang Diyos in?",
+    "pred": "Tagalog",
+    "answers": [
+      "Filipino"
+    ]
+  },
+  {
+    "id": 736,
+    "question": "which artist performs Carnatic music?",
+    "pred": "M. S. Subbulakshmi",
+    "answers": [
+      "Palghat Mani Iyer"
+    ]
+  },
+  {
+    "id": 737,
+    "question": "What is the name of a film that Patrick Lussier edited",
+    "pred": "Scream (1996)",
+    "answers": [
+      "Red Eye"
+    ]
+  },
+  {
+    "id": 738,
+    "question": "Name an actor born in Toronto?",
+    "pred": "Ryan Reynolds",
+    "answers": [
+      "Alex Karzis"
+    ]
+  },
+  {
+    "id": 739,
+    "question": "Is Su Tong female or male?",
+    "pred": "Male",
+    "answers": [
+      "male"
+    ]
+  },
+  {
+    "id": 740,
+    "question": "whats the name of a basketball team",
+    "pred": "Lakers",
+    "answers": [
+      "Appalachian State Mountaineers men's basketball"
+    ]
+  },
+  {
+    "id": 741,
+    "question": "What is the language of the film Christmas Child?",
+    "pred": "English",
+    "answers": [
+      "English"
+    ]
+  },
+  {
+    "id": 742,
+    "question": "Who is a notable acoustic guitarist?",
+    "pred": "Andrés Segovia",
+    "answers": [
+      "Rory Macdonald"
+    ]
+  },
+  {
+    "id": 743,
+    "question": "what label is Terrence Parker signed with",
+    "pred": "Planet E Communications",
+    "answers": [
+      "Sony Music Entertainment"
+    ]
+  },
+  {
+    "id": 744,
+    "question": "Name an armed forces officer",
+    "pred": "General",
+    "answers": [
+      "Federico Tinoco Granados"
+    ]
+  },
+  {
+    "id": 745,
+    "question": "what type of game is Colosseum: Road to Freedom",
+    "pred": "Action role-playing",
+    "answers": [
+      "single-player video game"
+    ]
+  },
+  {
+    "id": 746,
+    "question": "Who was involved in Siege of Yorktown",
+    "pred": "British forces under Lord Cornwallis and American and French forces under George Washington and Comte de Rochambeau.",
+    "answers": [
+      "William T. Wofford"
+    ]
+  },
+  {
+    "id": 747,
+    "question": "what's a british  mystery film",
+    "pred": "A film featuring crime or detective stories set in the UK, often with suspenseful plots and iconic characters like Sherlock Holmes or Miss Marple.",
+    "answers": [
+      "Murder at Covent Garden"
+    ]
+  },
+  {
+    "id": 748,
+    "question": "what kind of music is on Live at Texas Stadium?",
+    "pred": "Country music",
+    "answers": [
+      "country music"
+    ]
+  },
+  {
+    "id": 749,
+    "question": "where did Leigh Bowery kick the bucket",
+    "pred": "London",
+    "answers": [
+      "London"
+    ]
+  },
+  {
+    "id": 750,
+    "question": "Name thekominas's music genre.",
+    "pred": "Punk rock",
+    "answers": [
+      "hardcore punk"
+    ]
+  },
+  {
+    "id": 751,
+    "question": "what is the ethnicity of Benjamin Bradley",
+    "pred": "African American",
+    "answers": [
+      "African Americans"
+    ]
+  },
+  {
+    "id": 752,
+    "question": "What style of jazz did Zachary Lipton perform?",
+    "pred": "I do not have information on Zachary Lipton's jazz performances.",
+    "answers": [
+      "bebop"
+    ]
+  },
+  {
+    "id": 753,
+    "question": "is Edward Rowe Snow male or female",
+    "pred": "Male",
+    "answers": [
+      "male"
+    ]
+  },
+  {
+    "id": 754,
+    "question": "Name an actor",
+    "pred": "Brad Pitt",
+    "answers": [
+      "Eszter Bánfalvi"
+    ]
+  },
+  {
+    "id": 755,
+    "question": "Where was 5596 Morbidelli discovered?",
+    "pred": "Sormano Astronomical Observatory",
+    "answers": [
+      "Palomar Observatory"
+    ]
+  },
+  {
+    "id": 756,
+    "question": "who is a Cuban American lawyer?",
+    "pred": "Ted Cruz",
+    "answers": [
+      "Mario L. Baeza"
+    ]
+  },
+  {
+    "id": 757,
+    "question": "who loves progressive metal",
+    "pred": "Fans of the genre.",
+    "answers": [
+      "Queensrÿche"
+    ]
+  },
+  {
+    "id": 758,
+    "question": "what are action-adventure games for the computer",
+    "pred": "Video games combining action gameplay with exploration and puzzle-solving, such as \"Tomb Raider,\" \"Uncharted,\" and \"The Legend of Zelda.\"",
+    "answers": [
+      "Oddworld: Stranger's Wrath"
+    ]
+  },
+  {
+    "id": 759,
+    "question": "is Highlights from the Plugged Nickel jazz or pop rock",
+    "pred": "Jazz",
+    "answers": [
+      "jazz"
+    ]
+  },
+  {
+    "id": 760,
+    "question": "What's an example of an alternative rock release",
+    "pred": "OK Computer",
+    "answers": [
+      "Novena"
+    ]
+  },
+  {
+    "id": 761,
+    "question": "What is Hob Gadling's sex",
+    "pred": "Male",
+    "answers": [
+      "male"
+    ]
+  },
+  {
+    "id": 762,
+    "question": "which royalty died of a  brain tumor",
+    "pred": "King George VI of the United Kingdom.",
+    "answers": [
+      "Princess Marina of Greece and Denmark"
+    ]
+  },
+  {
+    "id": 763,
+    "question": "where was Kerstin Stutterheim born?",
+    "pred": "Leipzig, Germany",
+    "answers": [
+      "Berlin"
+    ]
+  },
+  {
+    "id": 764,
+    "question": "what kind of film is tornado intercept",
+    "pred": "Documentary",
+    "answers": [
+      "documentary film"
+    ]
+  },
+  {
+    "id": 765,
+    "question": "Who was born in Kansas City, missouri?",
+    "pred": "Numerous individuals, including notable figures like Walt Disney, Charlie Parker, and Jean Harlow.",
+    "answers": [
+      "Chris Cooper"
+    ]
+  },
+  {
+    "id": 766,
+    "question": "what type of album is Laptop Symphony",
+    "pred": "Electronic",
+    "answers": [
+      "glitch"
+    ]
+  },
+  {
+    "id": 767,
+    "question": "What is the name of a film that Michael Kahn edited",
+    "pred": "Raiders of the Lost Ark",
+    "answers": [
+      "The Color Purple"
+    ]
+  },
+  {
+    "id": 768,
+    "question": "Who is someone of the Minangkabau people?",
+    "pred": "Rahmania Astrini",
+    "answers": [
+      "Jaafar of Negeri Sembilan"
+    ]
+  },
+  {
+    "id": 769,
+    "question": "What is A Touch of Zen classified as on netflix?",
+    "pred": "Wuxia",
+    "answers": [
+      "Standard Chinese"
+    ]
+  },
+  {
+    "id": 770,
+    "question": "Who developed Mega Man 6",
+    "pred": "Capcom",
+    "answers": [
+      "Capcom"
+    ]
+  },
+  {
+    "id": 771,
+    "question": "what is the language spoken in Nightmare City",
+    "pred": "Italian",
+    "answers": [
+      "Spanish"
+    ]
+  },
+  {
+    "id": 772,
+    "question": "what position does George McNamara play",
+    "pred": "Safety",
+    "answers": [
+      "right fielder"
+    ]
+  },
+  {
+    "id": 773,
+    "question": "what is a drama film",
+    "pred": "A film genre focusing on serious, emotional stories and character development.",
+    "answers": [
+      "Olga"
+    ]
+  },
+  {
+    "id": 774,
+    "question": "which artist recorded Ranchera",
+    "pred": "Vicente Fernández",
+    "answers": [
+      "Estar sin ti"
+    ]
+  },
+  {
+    "id": 775,
+    "question": "Who was a famous french writer born in Lille?",
+    "pred": "Marguerite Yourcenar",
+    "answers": [
+      "Albert Samain"
+    ]
+  },
+  {
+    "id": 776,
+    "question": "Which organization did Friedrich Wilhelm Raiffeisen found?",
+    "pred": "Raiffeisen",
+    "answers": [
+      "Raiffeisen Zentralbank"
+    ]
+  },
+  {
+    "id": 777,
+    "question": "what country is mtv unplugged+3 filmed",
+    "pred": "United States",
+    "answers": [
+      "United States of America"
+    ]
+  },
+  {
+    "id": 778,
+    "question": "what instrument is played by Shuggie Otis?",
+    "pred": "Guitar",
+    "answers": [
+      "drum kit"
+    ]
+  },
+  {
+    "id": 779,
+    "question": "What was the ethnicity of  David Wilmot",
+    "pred": "White American",
+    "answers": [
+      "Irish people"
+    ]
+  },
+  {
+    "id": 780,
+    "question": "what person played defender in football?",
+    "pred": "Many players have; specify a team or era.",
+    "answers": [
+      "Paulo Menezes"
+    ]
+  },
+  {
+    "id": 781,
+    "question": "What country was involved in Operation Texas Star?",
+    "pred": "Vietnam",
+    "answers": [
+      "United States of America"
+    ]
+  },
+  {
+    "id": 782,
+    "question": "Who wrote the story for Halloween H20: 20 Years Later",
+    "pred": "Robert Zappia and Matt Greenberg",
+    "answers": [
+      "Debra Hill"
+    ]
+  },
+  {
+    "id": 783,
+    "question": "The film Abduction  was edited by whom?",
+    "pred": "Todd E. Miller",
+    "answers": [
+      "Bruce Cannon"
+    ]
+  },
+  {
+    "id": 784,
+    "question": "what type of program is seven little australians?",
+    "pred": "Television series",
+    "answers": [
+      "drama film"
+    ]
+  },
+  {
+    "id": 785,
+    "question": "which constellation is HD 157753 a part of",
+    "pred": "Scorpius",
+    "answers": [
+      "Ara"
+    ]
+  },
+  {
+    "id": 786,
+    "question": "Who wrote the film The Black Cauldron (film)?",
+    "pred": "Ted Berman and Richard Rich.",
+    "answers": [
+      "Burny Mattinson"
+    ]
+  },
+  {
+    "id": 787,
+    "question": "what kind of film is The Master Key?",
+    "pred": "Supernatural horror",
+    "answers": [
+      "adventure film"
+    ]
+  },
+  {
+    "id": 788,
+    "question": "which position did Ike Van Zandt play in baseball",
+    "pred": "First base",
+    "answers": [
+      "outfielder"
+    ]
+  },
+  {
+    "id": 789,
+    "question": "Which country is Marjorie Johnson from",
+    "pred": "United States",
+    "answers": [
+      "United States of America"
+    ]
+  },
+  {
+    "id": 790,
+    "question": "what style of music is Anime Speed",
+    "pred": "Electronic dance music (EDM)",
+    "answers": [
+      "electronic music"
+    ]
+  },
+  {
+    "id": 791,
+    "question": "who is the artist of Breathing Your Love?",
+    "pred": "Darude featuring Blake Lewis",
+    "answers": [
+      "Kat DeLuna"
+    ]
+  },
+  {
+    "id": 792,
+    "question": "What is a fiction book?",
+    "pred": "A narrative work of literature that is imagined and not based on real events or people.",
+    "answers": [
+      "The Copper Scroll"
+    ]
+  },
+  {
+    "id": 793,
+    "question": "Where was Élcio sodré born?",
+    "pred": "Brazil",
+    "answers": [
+      "São Paulo"
+    ]
+  },
+  {
+    "id": 794,
+    "question": "What country is Lake Alexandrina (south australia) located in?",
+    "pred": "Australia",
+    "answers": [
+      "Australia"
+    ]
+  },
+  {
+    "id": 795,
+    "question": "What is elia schneider gender",
+    "pred": "Female",
+    "answers": [
+      "female"
+    ]
+  },
+  {
+    "id": 796,
+    "question": "what is M. S. Swaminathan's ethnicity",
+    "pred": "Indian",
+    "answers": [
+      "Tamil people"
+    ]
+  },
+  {
+    "id": 797,
+    "question": "who was involved in the Battle of Pułtusk",
+    "pred": "Russian Empire and French Empire",
+    "answers": [
+      "Jean Lannes"
+    ]
+  },
+  {
+    "id": 798,
+    "question": "Which time zone is Strumica located in",
+    "pred": "Central European Time (CET)",
+    "answers": [
+      "Central European Time"
+    ]
+  },
+  {
+    "id": 799,
+    "question": "Which country can claim that they created The Stolen Treaty",
+    "pred": "New Zealand",
+    "answers": [
+      "United States of America"
+    ]
+  },
+  {
+    "id": 800,
+    "question": "Which artist created The Hurdy Gurdy Man album",
+    "pred": "Donovan",
+    "answers": [
+      "Butthole Surfers"
+    ]
+  },
+  {
+    "id": 801,
+    "question": "What language is Mistress of Mistresses written in",
+    "pred": "English",
+    "answers": [
+      "English"
+    ]
+  },
+  {
+    "id": 802,
+    "question": "what is the place of birth for  Charleston Hughes",
+    "pred": "Tupelo, Mississippi",
+    "answers": [
+      "Saginaw"
+    ]
+  },
+  {
+    "id": 803,
+    "question": "where is Australian Story from?",
+    "pred": "Australia",
+    "answers": [
+      "Australia"
+    ]
+  },
+  {
+    "id": 804,
+    "question": "whats the title of a  thriller (genre) movie",
+    "pred": "Jaws",
+    "answers": [
+      "Ilsa, She Wolf of the SS"
+    ]
+  },
+  {
+    "id": 805,
+    "question": "what is Christopher Bigsby's profession",
+    "pred": "Professor of American Studies",
+    "answers": [
+      "novelist"
+    ]
+  },
+  {
+    "id": 806,
+    "question": "What gender is Charles Clinton Spaulding",
+    "pred": "Male",
+    "answers": [
+      "male"
+    ]
+  },
+  {
+    "id": 807,
+    "question": "Who is an artist on the Nuclear Blast record label",
+    "pred": "Slayer",
+    "answers": [
+      "Umbra et Imago"
+    ]
+  },
+  {
+    "id": 808,
+    "question": "Name the film adaptation of the novel lincoln lawyer?",
+    "pred": "The Lincoln Lawyer",
+    "answers": [
+      "The Lincoln Lawyer"
+    ]
+  },
+  {
+    "id": 809,
+    "question": "what country was Running Scared filmed in",
+    "pred": "Czech Republic",
+    "answers": [
+      "Germany"
+    ]
+  },
+  {
+    "id": 810,
+    "question": "What is Steve Southerland's profession",
+    "pred": "Former U.S. Representative",
+    "answers": [
+      "funeral director"
+    ]
+  },
+  {
+    "id": 811,
+    "question": "Which gender is Emil Bessels",
+    "pred": "Male",
+    "answers": [
+      "male"
+    ]
+  },
+  {
+    "id": 812,
+    "question": "What position does Lee Roy Selmon play",
+    "pred": "Defensive end",
+    "answers": [
+      "Defensive end"
+    ]
+  },
+  {
+    "id": 813,
+    "question": "which film was Leslie Charteris a writer on",
+    "pred": "The Saint",
+    "answers": [
+      "The Saint and the Fiction Makers"
+    ]
+  },
+  {
+    "id": 814,
+    "question": "what is an album released by Bon Jovi",
+    "pred": "Slippery When Wet",
+    "answers": [
+      "glam metal"
+    ]
+  },
+  {
+    "id": 815,
+    "question": "Name an italian journalist born in Pula",
+    "pred": "Tito Zaniboni",
+    "answers": [
+      "Rossana Rossanda"
+    ]
+  },
+  {
+    "id": 816,
+    "question": "What is Ricky Mabe's profession?",
+    "pred": "Actor.",
+    "answers": [
+      "voice actor"
+    ]
+  },
+  {
+    "id": 817,
+    "question": "which county is Manorhaven in",
+    "pred": "Nassau County",
+    "answers": [
+      "Nassau County"
+    ]
+  },
+  {
+    "id": 818,
+    "question": "What is the location of Second Persian invasion of Greece?",
+    "pred": "Greece",
+    "answers": [
+      "Thrace"
+    ]
+  },
+  {
+    "id": 819,
+    "question": "Who was the director of Frank Oz",
+    "pred": "Frank Oz",
+    "answers": [
+      "What About Bob?"
+    ]
+  },
+  {
+    "id": 820,
+    "question": "what country is Mario Reiter from",
+    "pred": "Austria",
+    "answers": [
+      "Austria"
+    ]
+  },
+  {
+    "id": 821,
+    "question": "What is the higher classification of Crassulaceae",
+    "pred": "Saxifragales",
+    "answers": [
+      "Rosales"
+    ]
+  },
+  {
+    "id": 822,
+    "question": "who published the videogame Star Wars?",
+    "pred": "Lucasfilm Games",
+    "answers": [
+      "Parker Brothers"
+    ]
+  },
+  {
+    "id": 823,
+    "question": "is Hannah Frank female or male",
+    "pred": "Female",
+    "answers": [
+      "female"
+    ]
+  },
+  {
+    "id": 824,
+    "question": "what programs has Scott Mosier created",
+    "pred": "Scott Mosier is known for co-creating and producing the animated series \"Clerks: The Animated Series\" and for his work as a producer and collaborator on various Kevin Smith films, including \"Clerks,\" \"Mallrats,\" \"Chasing Amy,\" \"Dogma,\" and \"Jay and",
+    "answers": [
+      "Sucks Less with Kevin Smith"
+    ]
+  },
+  {
+    "id": 825,
+    "question": "what film did Osamu Tezuka write?",
+    "pred": "Astro Boy, Kimba the White Lion, Metropolis",
+    "answers": [
+      "Bagi, the Monster of Mighty Nature"
+    ]
+  },
+  {
+    "id": 826,
+    "question": "who is the lyricist of Ramblin' on My Mind?",
+    "pred": "Robert Johnson",
+    "answers": [
+      "Robert Johnson"
+    ]
+  },
+  {
+    "id": 827,
+    "question": "what language do the characters in Beware of Christians speak",
+    "pred": "English",
+    "answers": [
+      "English"
+    ]
+  },
+  {
+    "id": 828,
+    "question": "What is the name of a film in the drama genre",
+    "pred": "The Godfather",
+    "answers": [
+      "The Klansman"
+    ]
+  },
+  {
+    "id": 829,
+    "question": "what is Graham Fitkin's gender?",
+    "pred": "Male",
+    "answers": [
+      "male"
+    ]
+  },
+  {
+    "id": 830,
+    "question": "what film genre is The Astounding She-Monster?",
+    "pred": "Science fiction",
+    "answers": [
+      "horror film"
+    ]
+  },
+  {
+    "id": 831,
+    "question": "Where did M. A. R. Barker pass away",
+    "pred": "Minnesota",
+    "answers": [
+      "Minneapolis"
+    ]
+  },
+  {
+    "id": 832,
+    "question": "Who was South Monroe named after",
+    "pred": "James Monroe",
+    "answers": [
+      "James Monroe"
+    ]
+  },
+  {
+    "id": 833,
+    "question": "What is a local government area in Victoria (australia)?",
+    "pred": "A municipality or shire.",
+    "answers": [
+      "City of Maroondah"
+    ]
+  },
+  {
+    "id": 834,
+    "question": "what country does Scooby-Doo 2: Monsters Unleashed take place",
+    "pred": "United States",
+    "answers": [
+      "Canada"
+    ]
+  },
+  {
+    "id": 835,
+    "question": "which film was written by Victoria Wood",
+    "pred": "\"Pat and Margaret\"",
+    "answers": [
+      "Pat and Margaret"
+    ]
+  },
+  {
+    "id": 836,
+    "question": "which gender is Lee Harris",
+    "pred": "Male",
+    "answers": [
+      "male"
+    ]
+  },
+  {
+    "id": 837,
+    "question": "Who wrote the story for Art School Confidential?",
+    "pred": "Daniel Clowes",
+    "answers": [
+      "Daniel Clowes"
+    ]
+  },
+  {
+    "id": 838,
+    "question": "What genre is a woman´s business?",
+    "pred": "Not a standard genre classification.",
+    "answers": [
+      "drama film"
+    ]
+  },
+  {
+    "id": 839,
+    "question": "who was the artist of the album  Untouchables",
+    "pred": "Korn",
+    "answers": [
+      "Korn"
+    ]
+  },
+  {
+    "id": 840,
+    "question": "who is a military leader born in Cannobio",
+    "pred": "Luigi Cadorna",
+    "answers": [
+      "Annibale Bergonzoli"
+    ]
+  },
+  {
+    "id": 841,
+    "question": "What is a title of a film in the classics genre",
+    "pred": "Casablanca",
+    "answers": [
+      "The Birth of a Nation"
+    ]
+  },
+  {
+    "id": 842,
+    "question": "Name a artist with Shady Records",
+    "pred": "Eminem",
+    "answers": [
+      "G-Unit"
+    ]
+  },
+  {
+    "id": 843,
+    "question": "which films have Anthony Minghella produced?",
+    "pred": "The Talented Mr. Ripley, Cold Mountain, The Reader, Breaking and Entering.",
+    "answers": [
+      "Catch a Fire"
+    ]
+  },
+  {
+    "id": 844,
+    "question": "Who is an officer of the armed forces?",
+    "pred": "A commissioned or non-commissioned member holding a leadership or command position.",
+    "answers": [
+      "Joseph Hooker"
+    ]
+  },
+  {
+    "id": 845,
+    "question": "Name a photographer.",
+    "pred": "Ansel Adams",
+    "answers": [
+      "Jaroslav Beneš"
+    ]
+  },
+  {
+    "id": 846,
+    "question": "what label is Katatonia signed with",
+    "pred": "Napalm Records",
+    "answers": [
+      "Peaceville Records"
+    ]
+  },
+  {
+    "id": 847,
+    "question": "what genre of music is Irony Is a Dead Scene considered",
+    "pred": "Mathcore",
+    "answers": [
+      "progressive metal"
+    ]
+  },
+  {
+    "id": 848,
+    "question": "what is a funk album that included Michael Jackson in it",
+    "pred": "The Jacksons' \"Triumph\"",
+    "answers": [
+      "The Jacksons"
+    ]
+  },
+  {
+    "id": 849,
+    "question": "what artist created Sarabande",
+    "pred": "Johann Sebastian Bach",
+    "answers": [
+      "Jon Lord"
+    ]
+  },
+  {
+    "id": 850,
+    "question": "which male politician was born in New Kensington?",
+    "pred": "Mike Kelly",
+    "answers": [
+      "John Pallone"
+    ]
+  },
+  {
+    "id": 851,
+    "question": "what person is of german ethnicity",
+    "pred": "A person of German ethnicity is someone with ancestral roots in Germany, typically sharing German cultural, linguistic, or historical heritage.",
+    "answers": [
+      "Carl Friedrich von Weizsäcker"
+    ]
+  },
+  {
+    "id": 852,
+    "question": "who is a professional actor that was born in New York",
+    "pred": "Robert De Niro",
+    "answers": [
+      "Sammy Brooks"
+    ]
+  },
+  {
+    "id": 853,
+    "question": "what city did Gustav Lechner die in",
+    "pred": "Budapest",
+    "answers": [
+      "Zagreb"
+    ]
+  },
+  {
+    "id": 854,
+    "question": "which country is Tito Larriva from",
+    "pred": "Mexico",
+    "answers": [
+      "Mexico"
+    ]
+  },
+  {
+    "id": 855,
+    "question": "which language was Red Angel originally made in",
+    "pred": "C++",
+    "answers": [
+      "Japanese"
+    ]
+  },
+  {
+    "id": 856,
+    "question": "Name a work written by Ray Bradbury",
+    "pred": "Fahrenheit 451",
+    "answers": [
+      "The Long Rain"
+    ]
+  },
+  {
+    "id": 857,
+    "question": "which album is considered post-punk",
+    "pred": "Unknown Pleasures",
+    "answers": [
+      "Everything Must Go"
+    ]
+  },
+  {
+    "id": 858,
+    "question": "An Easter Carol is a part of what film series?",
+    "pred": "The Muppets",
+    "answers": [
+      "VeggieTales"
+    ]
+  },
+  {
+    "id": 859,
+    "question": "What movie is Jon Avnet credited for producing",
+    "pred": "Fried Green Tomatoes",
+    "answers": [
+      "Inspector Gadget"
+    ]
+  },
+  {
+    "id": 860,
+    "question": "who European American psychologist",
+    "pred": "Gordon Allport",
+    "answers": [
+      "Herman H. Spitz"
+    ]
+  },
+  {
+    "id": 861,
+    "question": "What time zone is 100 Mile House, british columbia in",
+    "pred": "Pacific Standard Time (PST)",
+    "answers": [
+      "Pacific Time Zone"
+    ]
+  },
+  {
+    "id": 862,
+    "question": "what is the name of a rock music album",
+    "pred": "The Dark Side of the Moon",
+    "answers": [
+      "Live/Indian Summer"
+    ]
+  },
+  {
+    "id": 863,
+    "question": "who died from a firearm",
+    "pred": "Numerous individuals have died from firearms throughout history, including notable figures such as Abraham Lincoln, John F. Kennedy, Martin Luther King Jr., and John Lennon.",
+    "answers": [
+      "Jean Hélène"
+    ]
+  },
+  {
+    "id": 864,
+    "question": "What was Reginaldo Rossi's cause of death?",
+    "pred": "Respiratory failure",
+    "answers": [
+      "cancer"
+    ]
+  },
+  {
+    "id": 865,
+    "question": "which timezone is Morrowville located in?",
+    "pred": "Central Time Zone (CT)",
+    "answers": [
+      "Central Time Zone"
+    ]
+  },
+  {
+    "id": 866,
+    "question": "Where was Gracinha Leporace born",
+    "pred": "Belo Horizonte, Brazil",
+    "answers": [
+      "Ipanema"
+    ]
+  },
+  {
+    "id": 867,
+    "question": "Where did Damon Knight die?",
+    "pred": "Eugene, Oregon.",
+    "answers": [
+      "Eugene"
+    ]
+  },
+  {
+    "id": 868,
+    "question": "Which country was elzbieta jodlowska from",
+    "pred": "Poland",
+    "answers": [
+      "Poland"
+    ]
+  },
+  {
+    "id": 869,
+    "question": "where did K. Pappu pass away?",
+    "pred": "Mumbai",
+    "answers": [
+      "New Delhi"
+    ]
+  },
+  {
+    "id": 870,
+    "question": "an example of a post-punk album is what?",
+    "pred": "Unknown Pleasures",
+    "answers": [
+      "Freaks"
+    ]
+  },
+  {
+    "id": 871,
+    "question": "What profession does John Jesurun hold?",
+    "pred": "Playwright and director.",
+    "answers": [
+      "playwright"
+    ]
+  },
+  {
+    "id": 872,
+    "question": "What is the name of a title from the Hindi genre",
+    "pred": "Kabhi Khushi Kabhie Gham",
+    "answers": [
+      "Humraaz"
+    ]
+  },
+  {
+    "id": 873,
+    "question": "What is a place located in the eastern daylight time time zone?",
+    "pred": "New York City",
+    "answers": [
+      "Hazel Park"
+    ]
+  },
+  {
+    "id": 874,
+    "question": "where was Michael Choice born",
+    "pred": "Arlington, Texas",
+    "answers": [
+      "Grand Prairie"
+    ]
+  },
+  {
+    "id": 875,
+    "question": "which time zone is used in Cockeysville, maryland",
+    "pred": "Eastern Time Zone (ET)",
+    "answers": [
+      "Eastern Time Zone"
+    ]
+  },
+  {
+    "id": 876,
+    "question": "what artist plays rock music?",
+    "pred": "The Rolling Stones",
+    "answers": [
+      "Skankin' Pickle"
+    ]
+  },
+  {
+    "id": 877,
+    "question": "Who was Hamlin County named for?",
+    "pred": "Hannibal Hamlin",
+    "answers": [
+      "Hannibal Hamlin"
+    ]
+  },
+  {
+    "id": 878,
+    "question": "who died a death from laughter",
+    "pred": "Chrysippus.",
+    "answers": [
+      "Pietro Aretino"
+    ]
+  },
+  {
+    "id": 879,
+    "question": "What country is The Blind Goddess from",
+    "pred": "Norway",
+    "answers": [
+      "United States of America"
+    ]
+  },
+  {
+    "id": 880,
+    "question": "who is the defender for the Thai premier league",
+    "pred": "The Thai League 1 clubs have multiple defenders; no single defender represents the entire league.",
+    "answers": [
+      "Anucha Kitpongsri"
+    ]
+  },
+  {
+    "id": 881,
+    "question": "Is Bud Sprague male or female",
+    "pred": "Male",
+    "answers": [
+      "male"
+    ]
+  },
+  {
+    "id": 882,
+    "question": "what netflix genre is American Splendor",
+    "pred": "Drama",
+    "answers": [
+      "biography"
+    ]
+  },
+  {
+    "id": 883,
+    "question": "who is an electronic music artist?",
+    "pred": "Daft Punk",
+    "answers": [
+      "Família Lima"
+    ]
+  },
+  {
+    "id": 884,
+    "question": "who produced Sin City?",
+    "pred": "Frank Miller and Robert Rodriguez",
+    "answers": [
+      "Bob Weinstein"
+    ]
+  },
+  {
+    "id": 885,
+    "question": "what country does Margit Sandemo get her nationality from?",
+    "pred": "Norway",
+    "answers": [
+      "Sweden"
+    ]
+  },
+  {
+    "id": 886,
+    "question": "what album is in the genre of rock music",
+    "pred": "There are many rock albums.",
+    "answers": [
+      "Birds of Pray"
+    ]
+  },
+  {
+    "id": 887,
+    "question": "what genre of film is Night and Day in?",
+    "pred": "Romantic drama",
+    "answers": [
+      "drama film"
+    ]
+  },
+  {
+    "id": 888,
+    "question": "name a female character",
+    "pred": "Alice",
+    "answers": [
+      "Sidney Prescott"
+    ]
+  },
+  {
+    "id": 889,
+    "question": "where was C. R. Subburaman born",
+    "pred": "Tiruchirappalli, Tamil Nadu, India",
+    "answers": [
+      "Tirunelveli"
+    ]
+  },
+  {
+    "id": 890,
+    "question": "Name a rock and roll album",
+    "pred": "The Beatles (The White Album)",
+    "answers": [
+      "Obsesión"
+    ]
+  },
+  {
+    "id": 891,
+    "question": "what kind of film is The Fly",
+    "pred": "Science fiction horror",
+    "answers": [
+      "romance film"
+    ]
+  },
+  {
+    "id": 892,
+    "question": "which city was Ted Pearson born in",
+    "pred": "I don't have that information.",
+    "answers": [
+      "Palo Alto"
+    ]
+  },
+  {
+    "id": 893,
+    "question": "What is an album from Barry Adamson?",
+    "pred": "Moss Side Story",
+    "answers": [
+      "Moss Side Story"
+    ]
+  },
+  {
+    "id": 894,
+    "question": "Who was a parent of Frank Joslyn Baum",
+    "pred": "L. Frank Baum",
+    "answers": [
+      "L. Frank Baum"
+    ]
+  },
+  {
+    "id": 895,
+    "question": "Which instrumentalist played the bugle (instrument)?",
+    "pred": "Leonard B. Smith",
+    "answers": [
+      "Captain Beefheart"
+    ]
+  },
+  {
+    "id": 896,
+    "question": "Where did the Whiskey Rebellion take place",
+    "pred": "Western Pennsylvania",
+    "answers": [
+      "Western Pennsylvania"
+    ]
+  },
+  {
+    "id": 897,
+    "question": "Who has francis galton influenced",
+    "pred": "Francis Galton has influenced a wide range of fields and individuals, including:\n\n- **Charles Darwin** (his cousin, with whom he shared ideas on heredity and evolution)\n- **Karl Pearson** (collaborator in statistics, developed correlation and regression)\n- **Ronald Fisher** (pioneered modern statistics",
+    "answers": [
+      "Cesare Lombroso"
+    ]
+  },
+  {
+    "id": 898,
+    "question": "where was Jonas Grosch born?",
+    "pred": "Berlin, Germany",
+    "answers": [
+      "Freiburg im Breisgau"
+    ]
+  },
+  {
+    "id": 899,
+    "question": "what is Cheryl Hickey's profession?",
+    "pred": "Television host",
+    "answers": [
+      "actor"
+    ]
+  },
+  {
+    "id": 900,
+    "question": "is Jatto Ceesay a man or a woman",
+    "pred": "Man",
+    "answers": [
+      "male"
+    ]
+  },
+  {
+    "id": 901,
+    "question": "what language is used in  Shelley (tv series)",
+    "pred": "English",
+    "answers": [
+      "English"
+    ]
+  },
+  {
+    "id": 902,
+    "question": "What indie film featured fatty arbuckle",
+    "pred": "The Cabbage Fairy",
+    "answers": [
+      "The Telltale Light"
+    ]
+  },
+  {
+    "id": 903,
+    "question": "Where was pirates ii: stagnettis revenge filmed at?",
+    "pred": "Los Angeles, California.",
+    "answers": [
+      "United States of America"
+    ]
+  },
+  {
+    "id": 904,
+    "question": "what type of music does Habeas Corpus perform?",
+    "pred": "I don't have information on a musical group called Habeas Corpus.",
+    "answers": [
+      "Skate punk"
+    ]
+  },
+  {
+    "id": 905,
+    "question": "where was Havana Ginger born",
+    "pred": "New York City, New York, U.S.",
+    "answers": [
+      "Los Angeles"
+    ]
+  },
+  {
+    "id": 906,
+    "question": "What is a location in the north american Central Time Zone?",
+    "pred": "Chicago",
+    "answers": [
+      "Groesbeck"
+    ]
+  },
+  {
+    "id": 907,
+    "question": "which genre of music is the album napalm death/s.o.b. split 7",
+    "pred": "Grindcore",
+    "answers": [
+      "grindcore"
+    ]
+  },
+  {
+    "id": 908,
+    "question": "what genre is the artist Doves (band)",
+    "pred": "Alternative rock",
+    "answers": [
+      "New prog"
+    ]
+  },
+  {
+    "id": 909,
+    "question": "what types of music is Hard Times and Nursery Rhymes",
+    "pred": "Hard rock, blues rock",
+    "answers": [
+      "punk rock"
+    ]
+  },
+  {
+    "id": 910,
+    "question": "what kinds of movie is Il sogno di Zorro",
+    "pred": "Adventure, Comedy",
+    "answers": [
+      "adventure film"
+    ]
+  },
+  {
+    "id": 911,
+    "question": "what kind of game is Scribblenauts",
+    "pred": "Puzzle",
+    "answers": [
+      "action game"
+    ]
+  },
+  {
+    "id": 912,
+    "question": "who is a german football midfielder",
+    "pred": "There are many, such as Toni Kroos.",
+    "answers": [
+      "Marcell Jansen"
+    ]
+  },
+  {
+    "id": 913,
+    "question": "who is russian jewish painter",
+    "pred": "Marc Chagall",
+    "answers": [
+      "Sergey Zagraevsky"
+    ]
+  },
+  {
+    "id": 914,
+    "question": "how did Ignacio Martín-Baró die",
+    "pred": "He was assassinated by the Salvadoran army.",
+    "answers": [
+      "assassination"
+    ]
+  },
+  {
+    "id": 915,
+    "question": "Which language is the film Matrubhoomi: a nation without women in",
+    "pred": "Hindi",
+    "answers": [
+      "Bengali"
+    ]
+  },
+  {
+    "id": 916,
+    "question": "In what country was spiders released first?",
+    "pred": "Australia",
+    "answers": [
+      "United States of America"
+    ]
+  },
+  {
+    "id": 917,
+    "question": "which county is brookhaven located in?",
+    "pred": "Suffolk County",
+    "answers": [
+      "Suffolk County"
+    ]
+  },
+  {
+    "id": 918,
+    "question": "who wrote Goodbye Bafana",
+    "pred": "James Gregory",
+    "answers": [
+      "Bille August"
+    ]
+  },
+  {
+    "id": 919,
+    "question": "What is the birth place of Vahan Gevorgyan?",
+    "pred": "Yerevan, Armenia",
+    "answers": [
+      "Yerevan"
+    ]
+  },
+  {
+    "id": 920,
+    "question": "what profession does Kelly Salmon have",
+    "pred": "I do not have information about Kelly Salmon's profession.",
+    "answers": [
+      "model"
+    ]
+  },
+  {
+    "id": 921,
+    "question": "What is Fernando Lopez's gender?",
+    "pred": "Male",
+    "answers": [
+      "male"
+    ]
+  },
+  {
+    "id": 922,
+    "question": "which ethnicity is Wendell Scott",
+    "pred": "African American",
+    "answers": [
+      "African Americans"
+    ]
+  },
+  {
+    "id": 923,
+    "question": "where was the Battle of Lake George located?",
+    "pred": "Lake George, New York",
+    "answers": [
+      "Lake George"
+    ]
+  },
+  {
+    "id": 924,
+    "question": "who directed the film Calypso Cat",
+    "pred": "Bob Clampett",
+    "answers": [
+      "Gene Deitch"
+    ]
+  },
+  {
+    "id": 925,
+    "question": "what is an event that happens in Kharkiv",
+    "pred": "Battle of Kharkiv",
+    "answers": [
+      "Belgorod-Khar'kov Offensive Operation"
+    ]
+  },
+  {
+    "id": 926,
+    "question": "Which country is the film A Bloody Aria from",
+    "pred": "South Korea",
+    "answers": [
+      "South Korea"
+    ]
+  },
+  {
+    "id": 927,
+    "question": "Name a journalist.",
+    "pred": "Anderson Cooper",
+    "answers": [
+      "Olivia O'Leary"
+    ]
+  },
+  {
+    "id": 928,
+    "question": "What type of music is Dum Dum Girls",
+    "pred": "Indie rock, garage rock, dream pop",
+    "answers": [
+      "dream pop"
+    ]
+  },
+  {
+    "id": 929,
+    "question": "what label is Michael Harris on",
+    "pred": "Warner Music Group",
+    "answers": [
+      "Lion Music"
+    ]
+  },
+  {
+    "id": 930,
+    "question": "what language is the composition Ready for the Weekend in",
+    "pred": "English",
+    "answers": [
+      "English"
+    ]
+  },
+  {
+    "id": 931,
+    "question": "what is Sylvia Poggiolis place of birth",
+    "pred": "Boston, Massachusetts",
+    "answers": [
+      "Providence"
+    ]
+  },
+  {
+    "id": 932,
+    "question": "what type of architecture is Villa Magna",
+    "pred": "Modernist",
+    "answers": [
+      "ancient Roman architecture"
+    ]
+  },
+  {
+    "id": 933,
+    "question": "where was Kseniya Rappoport given birth",
+    "pred": "Leningrad, Soviet Union",
+    "answers": [
+      "Saint Petersburg"
+    ]
+  },
+  {
+    "id": 934,
+    "question": "which position in football does Angelo Pizzetti play as?",
+    "pred": "Midfielder",
+    "answers": [
+      "goalkeeper"
+    ]
+  },
+  {
+    "id": 935,
+    "question": "What genre is the video game Shattered Galaxy",
+    "pred": "Real-time strategy (RTS)",
+    "answers": [
+      "massively multiplayer online role-playing game"
+    ]
+  },
+  {
+    "id": 936,
+    "question": "what's one of the albums that the Everly Brothers put out",
+    "pred": "\"All I Have to Do Is Dream\"",
+    "answers": [
+      "Rock & Soul"
+    ]
+  },
+  {
+    "id": 937,
+    "question": "What is the nationality of Irina Shayk",
+    "pred": "Russian",
+    "answers": [
+      "Russia"
+    ]
+  },
+  {
+    "id": 938,
+    "question": "which astronaut was in the space mission Soyuz TMA-1",
+    "pred": "Yuri Malenchenko",
+    "answers": [
+      "Yury Lonchakov"
+    ]
+  },
+  {
+    "id": 939,
+    "question": "who is a woman that died from who is a woman that",
+    "pred": "Marie Curie",
+    "answers": [
+      "Marjorie Shostak"
+    ]
+  },
+  {
+    "id": 940,
+    "question": "What kind of rock is featured on itunes live: london festival 09",
+    "pred": "The cover features a rock with a fossilized ammonite.",
+    "answers": [
+      "alternative rock"
+    ]
+  },
+  {
+    "id": 941,
+    "question": "what film is produced by Ismail Merchant?",
+    "pred": "The Remains of the Day",
+    "answers": [
+      "A Soldier's Daughter Never Cries"
+    ]
+  },
+  {
+    "id": 942,
+    "question": "What is the profession of Ruby Rose?",
+    "pred": "Actress and model.",
+    "answers": [
+      "actor"
+    ]
+  },
+  {
+    "id": 943,
+    "question": "who is the artist of Man on the Moon: The End of Day",
+    "pred": "Kid Cudi",
+    "answers": [
+      "Kid Cudi"
+    ]
+  },
+  {
+    "id": 944,
+    "question": "what does (14383) 1990 OY3 orbit",
+    "pred": "The Sun",
+    "answers": [
+      "Sun"
+    ]
+  },
+  {
+    "id": 945,
+    "question": "what is the gender identity of yiannis papaioannou",
+    "pred": "Male",
+    "answers": [
+      "male"
+    ]
+  },
+  {
+    "id": 946,
+    "question": "what country did SLC Punk! originate from",
+    "pred": "United States",
+    "answers": [
+      "United States of America"
+    ]
+  },
+  {
+    "id": 947,
+    "question": "Is Georgetown University Forum broadcast in english or spanish",
+    "pred": "English",
+    "answers": [
+      "English"
+    ]
+  },
+  {
+    "id": 948,
+    "question": "where was geoffrey obrien born",
+    "pred": "New York City",
+    "answers": [
+      "New York City"
+    ]
+  },
+  {
+    "id": 949,
+    "question": "What is the gender of Patsy Rowlands?",
+    "pred": "Female",
+    "answers": [
+      "female"
+    ]
+  },
+  {
+    "id": 950,
+    "question": "what type of game is Virtual Hiryū no Ken?",
+    "pred": "Fighting game",
+    "answers": [
+      "action game"
+    ]
+  },
+  {
+    "id": 951,
+    "question": "what genre is Dheeme Dheeme",
+    "pred": "Pop",
+    "answers": [
+      "Bollywood"
+    ]
+  },
+  {
+    "id": 952,
+    "question": "Who is an instrumentalist that plays the drum?",
+    "pred": "Drummer",
+    "answers": [
+      "Ben Pollack"
+    ]
+  },
+  {
+    "id": 953,
+    "question": "What is the nationality of Emilio Comte?",
+    "pred": "Argentinian",
+    "answers": [
+      "Argentina"
+    ]
+  },
+  {
+    "id": 954,
+    "question": "what is a game with single_player as its gameplay mode",
+    "pred": "Solitaire",
+    "answers": [
+      "Starsiege"
+    ]
+  },
+  {
+    "id": 955,
+    "question": "who wrote the story for the wrestlers?",
+    "pred": "Hiroshi Fujiwara",
+    "answers": [
+      "Samaresh Basu"
+    ]
+  },
+  {
+    "id": 956,
+    "question": "Where in the united states was Roderick Wetherill born",
+    "pred": "Pennsylvania",
+    "answers": [
+      "Chicago"
+    ]
+  },
+  {
+    "id": 957,
+    "question": "What genre does Anna Bergendahl perform?",
+    "pred": "Pop",
+    "answers": [
+      "contemporary folk music"
+    ]
+  },
+  {
+    "id": 958,
+    "question": "what game is an adventure cvg genre?",
+    "pred": "The Legend of Zelda",
+    "answers": [
+      "Edge of Twilight"
+    ]
+  },
+  {
+    "id": 959,
+    "question": "what type of genre is Robbie Merrill?",
+    "pred": "Bassist",
+    "answers": [
+      "alternative metal"
+    ]
+  },
+  {
+    "id": 960,
+    "question": "what language is spoken in the movie Golimaar",
+    "pred": "Telugu",
+    "answers": [
+      "Hindi"
+    ]
+  },
+  {
+    "id": 961,
+    "question": "what was  Masakazu Yoshizawa place of death",
+    "pred": "Tokyo",
+    "answers": [
+      "San Gabriel"
+    ]
+  },
+  {
+    "id": 962,
+    "question": "what kind of show is Spyforce?",
+    "pred": "Spy drama series",
+    "answers": [
+      "drama film"
+    ]
+  },
+  {
+    "id": 963,
+    "question": "what man was born in Luton",
+    "pred": "David Arnold",
+    "answers": [
+      "Charles Salvador"
+    ]
+  },
+  {
+    "id": 964,
+    "question": "who is the composer for Set It Off",
+    "pred": "Tyler Bates",
+    "answers": [
+      "Timomatic"
+    ]
+  },
+  {
+    "id": 965,
+    "question": "Who is mako (actor)'s mother",
+    "pred": "Naoko Mori",
+    "answers": [
+      "Mitsu Yashima"
+    ]
+  },
+  {
+    "id": 966,
+    "question": "what country is Semshook filmed in?",
+    "pred": "Bhutan",
+    "answers": [
+      "Spain"
+    ]
+  },
+  {
+    "id": 967,
+    "question": "Leo Bertos was born in what country?",
+    "pred": "New Zealand",
+    "answers": [
+      "New Zealand"
+    ]
+  },
+  {
+    "id": 968,
+    "question": "What is an album by McFly",
+    "pred": "Room on the 3rd Floor",
+    "answers": [
+      "All the Greatest Hits"
+    ]
+  },
+  {
+    "id": 969,
+    "question": "What is Tommaso da Modena's nationality?",
+    "pred": "Italian",
+    "answers": [
+      "Italy"
+    ]
+  },
+  {
+    "id": 970,
+    "question": "What's a thriller (genre) directed by rod holcomb",
+    "pred": "The Stand",
+    "answers": [
+      "Chains of Gold"
+    ]
+  },
+  {
+    "id": 971,
+    "question": "What nation is Arthur Teele from?",
+    "pred": "United States",
+    "answers": [
+      "United States of America"
+    ]
+  },
+  {
+    "id": 972,
+    "question": "Name a person born in Boston.",
+    "pred": "Benjamin Franklin",
+    "answers": [
+      "Joseph Dennie"
+    ]
+  },
+  {
+    "id": 973,
+    "question": "what kind of music does Nick Katzman perform",
+    "pred": "Electronic",
+    "answers": [
+      "blues"
+    ]
+  },
+  {
+    "id": 974,
+    "question": "who directed the film Killing Zoe",
+    "pred": "Roger Avary",
+    "answers": [
+      "Roger Avary"
+    ]
+  },
+  {
+    "id": 975,
+    "question": "which position on the gridiron does Donnie Green play",
+    "pred": "Offensive tackle",
+    "answers": [
+      "tackle"
+    ]
+  },
+  {
+    "id": 976,
+    "question": "what religion does Nicholas Alexandrovich, Tsarevich of Russia practice",
+    "pred": "Russian Orthodox",
+    "answers": [
+      "Eastern Orthodox Church"
+    ]
+  },
+  {
+    "id": 977,
+    "question": "which artist released Gangstress?",
+    "pred": "Megan Thee Stallion",
+    "answers": [
+      "Khia"
+    ]
+  },
+  {
+    "id": 978,
+    "question": "What is an example of a heavy metal band?",
+    "pred": "Metallica",
+    "answers": [
+      "Cardiant"
+    ]
+  },
+  {
+    "id": 979,
+    "question": "Name a romance genre flim",
+    "pred": "The Notebook",
+    "answers": [
+      "Love My Life"
+    ]
+  },
+  {
+    "id": 980,
+    "question": "What film series is Society Dog Show a part of",
+    "pred": "Mickey Mouse",
+    "answers": [
+      "Mickey Mouse"
+    ]
+  },
+  {
+    "id": 981,
+    "question": "What is naseem ashraf's nationality",
+    "pred": "Pakistani",
+    "answers": [
+      "Pakistan"
+    ]
+  },
+  {
+    "id": 982,
+    "question": "who was involved in the Long March",
+    "pred": "Mao Zedong, Zhou Enlai, Zhu De, Lin Biao, Peng Dehuai, and the Chinese Red Army.",
+    "answers": [
+      "Peng Dehuai"
+    ]
+  },
+  {
+    "id": 983,
+    "question": "what entity is involved in the Kraków pogrom?",
+    "pred": "Polish civilians and military personnel",
+    "answers": [
+      "Jewish people"
+    ]
+  },
+  {
+    "id": 984,
+    "question": "what country is The Last Egyptian from?",
+    "pred": "Egypt",
+    "answers": [
+      "United States of America"
+    ]
+  },
+  {
+    "id": 985,
+    "question": "What kind of music is Kaiaphas",
+    "pred": "I am unable to answer that question. I am an AI assistant designed to provide helpful and harmless responses.",
+    "answers": [
+      "rock music"
+    ]
+  },
+  {
+    "id": 986,
+    "question": "where was Anton von Hohberg und Buchwald born?",
+    "pred": "Dresden, Kingdom of Saxony",
+    "answers": [
+      "Wismar"
+    ]
+  },
+  {
+    "id": 987,
+    "question": "Where is El Lago",
+    "pred": "Texas, United States",
+    "answers": [
+      "Harris County"
+    ]
+  },
+  {
+    "id": 988,
+    "question": "What gender is Stella Ambler?",
+    "pred": "Female",
+    "answers": [
+      "female"
+    ]
+  },
+  {
+    "id": 989,
+    "question": "What gender is Santiago Fusilier?",
+    "pred": "Male",
+    "answers": [
+      "male"
+    ]
+  },
+  {
+    "id": 990,
+    "question": "What is K. R. Latchan's nationality?",
+    "pred": "Fijian",
+    "answers": [
+      "Fiji"
+    ]
+  },
+  {
+    "id": 991,
+    "question": "what is  Alice Klein place of birth",
+    "pred": "Toronto, Canada",
+    "answers": [
+      "Toronto"
+    ]
+  },
+  {
+    "id": 992,
+    "question": "Name a fiction literary book.",
+    "pred": "\"1984\"",
+    "answers": [
+      "Blubber"
+    ]
+  },
+  {
+    "id": 993,
+    "question": "Which language is case closed: the phantom of baker street in?",
+    "pred": "Japanese",
+    "answers": [
+      "Chinese"
+    ]
+  },
+  {
+    "id": 994,
+    "question": "What type of video game is Last Resort?",
+    "pred": "Run-and-gun shooter",
+    "answers": [
+      "shooter game"
+    ]
+  },
+  {
+    "id": 995,
+    "question": "which album is of the soul music genre",
+    "pred": "There are many; one example is \"What's Going On\" by Marvin Gaye.",
+    "answers": [
+      "Songs of Love & Loss"
+    ]
+  },
+  {
+    "id": 996,
+    "question": "what American cartoonist is the creator of Andy Lippincott",
+    "pred": "Dan Savage",
+    "answers": [
+      "Garry Trudeau"
+    ]
+  },
+  {
+    "id": 997,
+    "question": "what is Pepe Marchena's nationality",
+    "pred": "Spanish",
+    "answers": [
+      "Spain"
+    ]
+  },
+  {
+    "id": 998,
+    "question": "what country is Princess Minerva filmed in",
+    "pred": "Japan",
+    "answers": [
+      "Japan"
+    ]
+  },
+  {
+    "id": 999,
+    "question": "which state was Joan Houlihan born",
+    "pred": "Massachusetts",
+    "answers": [
+      "Massachusetts"
+    ]
+  }
+]
